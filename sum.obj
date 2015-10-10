@@ -1,0 +1,39 @@
+18 1
+00008021
+00008821
+24020005
+0000000c
+af820000
+8f920000
+0232402a
+11000006
+24020005
+0000000c
+02028021
+26310001
+08000005
+02002021
+24020001
+0000000c
+2402000a
+0000000c
+00000000
+
+   0: addu      $s0,$zero,$zero
+   1: addu      $s1,$zero,$zero
+   2: addiu     $v0,$zero,5
+   3: syscall
+   4: sw        $v0,0($gp)
+   5: lw        $s2,0($gp)
+   6: slt       $t0,$s1,$s2
+   7: beq       $t0,$zero,6
+   8: addiu     $v0,$zero,5
+   9: syscall
+  10: addu      $s0,$s0,$v0
+  11: addiu     $s1,$s1,1
+  12: j 5
+  13: addu      $a0,$s0,$zero
+  14: addiu     $v0,$zero,1
+  15: syscall
+  16: addiu     $v0,$zero,10
+  17: syscall

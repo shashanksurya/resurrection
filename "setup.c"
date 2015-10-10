@@ -1,0 +1,11 @@
+#include "setup.h"
+
+void setup()
+{
+	
+}
+
+void print_prompt()
+{
+	
+}

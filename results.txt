@@ -1,0 +1,45 @@
+ISBN of the book: 0262033844
+
+http://www.amazon.com/Introduction-Algorithms-3rd-Thomas-Cormen/dp/0262033844
+Title of the book: Introduction to Algorithms, 3rd Edition
+Authors of the Book:  Thomas H. CormenCharles E. LeisersonRonald L. RivestClifford Stein
+Price of the book: $79.13
+Review of the book: 4.3 out of 5 stars
+No. of Reviews: 170 customer reviews
+Book Dimensions: 8 x 1.8 x 9 inches
+-----------------------------------
+ISBN of the book: 1619491508
+
+http://www.amazon.com/Relativity-Special-General-Albert-Einstein/dp/1619491508
+Title of the book: Relativity: The Special and General Theory
+Authors of the Book:  Albert Einstein
+Price of the book: $6.99
+Review of the book: 3.9 out of 5 stars
+No. of Reviews: 199 customer reviews
+Book Dimensions: 6 x 0.2 x 9 inches
+-----------------------------------
+ISBN of the book: 0451526341
+
+http://www.amazon.com/Animal-Farm-Anniversary-George-Orwell/dp/0451526341
+Title of the book: Animal Farm: Anniversary Edition
+Authors of the Book:  George Orwell
+Price of the book: $6.04
+Review of the book: 4.5 out of 5 stars
+No. of Reviews: 5,215 customer reviews
+Book Dimensions: 4.3 x 0.4 x 7.7 inches
+-----------------------------------
+ISBN of the book: 0399144463
+http://www.amazon.com/Who-Moved-My-Cheese-Amazing/dp/0399144463
+Title of the book: Who Moved My Cheese?: An Amazing Way to Deal with Change in Your Work and in Your Life
+Authors of the Book:  Spencer Johnson
+Price of the book: $12.77
+Review of the book: 3.6 out of 5 stars
+No. of Reviews: 2,391 customer reviews
+Book Dimensions: 5.5 x 0.6 x 8.6 inches
+-----------------------------------
+
+
+
+<span id="acrPopover" class="reviewCountTextLinkedHistogram noUnderline" title="4.3 out of 5 stars">
+
+<li><b>Product Dimensions:   </b>    8 x 1.8 x 9 inches </li>

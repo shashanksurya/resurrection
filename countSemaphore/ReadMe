@@ -1,0 +1,8 @@
+Compilation: 
+gcc -pthread -o semaphore semaphore.c
+
+Execution:
+./semaphore <sleep time> <no. of producers> <no. of consumers>
+
+Example: 
+./semaphore 4 50 60

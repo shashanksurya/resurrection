@@ -1,0 +1,38 @@
+MOM: 27 May 2015 
+
+1. UBuntu server setup [NPW] ✓
+2. Work on R script from the package IBD	
+3. Work on Javascript front end for the surveys 
+4. Bayes CCT at UCIrvine for the anaylsis (go into R to implement those features)
+[Zita Oravecz] developer of Bayes CCT
+5. GCM model to analyze the data
+6. SAve the responses as ordinal data [option1]
+7. Pairwise block design instead of IBD 
+
+
+FLASK - RESTFUL API
+BOOTSTRAP - LOOK AND FEEL customization
+R - Call R script using subprocess
+MYSQL - backend services
+
+
+MOM: 8 June 2015 
+
+
+
+1. Participant surveys
+--------------------------------------------------------
+			Research Title
+
+			Research Message
+
+			Research Prompt
+
+	 Block by Block Display of Survey
+
+	 QUIT					CONTINUE			HELP
+
+
+	 ======== %PROGRESS BAR %=========
+
+----------------------------------------------------------

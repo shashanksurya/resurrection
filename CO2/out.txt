@@ -1,0 +1,329 @@
+
+********************
+State at the beginning of cycle 1:
+	PC = 0
+	Data Memory:
+		dataMem[0] = 1		dataMem[8] = 0
+		dataMem[1] = 2		dataMem[9] = 0
+		dataMem[2] = 3		dataMem[10] = 0
+		dataMem[3] = 0		dataMem[11] = 0
+		dataMem[4] = 0		dataMem[12] = 0
+		dataMem[5] = 0		dataMem[13] = 0
+		dataMem[6] = 0		dataMem[14] = 0
+		dataMem[7] = 0		dataMem[15] = 0
+	Registers:
+		regFile[0] = 0		regFile[4] = 0
+		regFile[1] = 0		regFile[5] = 0
+		regFile[2] = 0		regFile[6] = 0
+		regFile[3] = 0		regFile[7] = 0
+	IF/ID:
+		Instruction: NOOP
+		PCPlus4: 0
+	ID/EX:
+		Instruction: NOOP
+		PCPlus4: 0
+		branchTarget: 0
+		readData1: 0
+		readData2: 0
+		immed: 0
+		rs: 0
+		rt: 0
+		rd: 0
+	EX/MEM:
+		Instruction: NOOP
+		aluResult: 0
+		writeDataReg: 0
+		writeReg:0
+	MEM/WB:
+		Instruction: NOOP
+		writeDataMem: 0
+		writeDataALU: 0
+		writeReg: 0
+
+********************
+State at the beginning of cycle 2:
+	PC = 4
+	Data Memory:
+		dataMem[0] = 1		dataMem[8] = 0
+		dataMem[1] = 2		dataMem[9] = 0
+		dataMem[2] = 3		dataMem[10] = 0
+		dataMem[3] = 0		dataMem[11] = 0
+		dataMem[4] = 0		dataMem[12] = 0
+		dataMem[5] = 0		dataMem[13] = 0
+		dataMem[6] = 0		dataMem[14] = 0
+		dataMem[7] = 0		dataMem[15] = 0
+	Registers:
+		regFile[0] = 0		regFile[4] = 0
+		regFile[1] = 0		regFile[5] = 0
+		regFile[2] = 0		regFile[6] = 0
+		regFile[3] = 0		regFile[7] = 0
+	IF/ID:
+		Instruction: lw $1,0($0)
+		PCPlus4: 4
+	ID/EX:
+		Instruction: NOOP
+		PCPlus4: 0
+		branchTarget: 0
+		readData1: 0
+		readData2: 0
+		immed: 0
+		rs: 0
+		rt: 0
+		rd: 0
+	EX/MEM:
+		Instruction: NOOP
+		aluResult: 0
+		writeDataReg: 0
+		writeReg:0
+	MEM/WB:
+		Instruction: NOOP
+		writeDataMem: 0
+		writeDataALU: 0
+		writeReg: 0
+
+********************
+State at the beginning of cycle 3:
+	PC = 8
+	Data Memory:
+		dataMem[0] = 1		dataMem[8] = 0
+		dataMem[1] = 2		dataMem[9] = 0
+		dataMem[2] = 3		dataMem[10] = 0
+		dataMem[3] = 0		dataMem[11] = 0
+		dataMem[4] = 0		dataMem[12] = 0
+		dataMem[5] = 0		dataMem[13] = 0
+		dataMem[6] = 0		dataMem[14] = 0
+		dataMem[7] = 0		dataMem[15] = 0
+	Registers:
+		regFile[0] = 0		regFile[4] = 0
+		regFile[1] = 0		regFile[5] = 0
+		regFile[2] = 0		regFile[6] = 0
+		regFile[3] = 0		regFile[7] = 0
+	IF/ID:
+		Instruction: lw $2,4($0)
+		PCPlus4: 8
+	ID/EX:
+		Instruction: lw $1,0($0)
+		PCPlus4: 4
+		branchTarget: 0
+		readData1: 0
+		readData2: 1
+		immed: 0
+		rs: 0
+		rt: 0
+		rd: 0
+	EX/MEM:
+		Instruction: NOOP
+		aluResult: 0
+		writeDataReg: 0
+		writeReg:0
+	MEM/WB:
+		Instruction: NOOP
+		writeDataMem: 0
+		writeDataALU: 0
+		writeReg: 0
+
+********************
+State at the beginning of cycle 4:
+	PC = 12
+	Data Memory:
+		dataMem[0] = 1		dataMem[8] = 0
+		dataMem[1] = 2		dataMem[9] = 0
+		dataMem[2] = 3		dataMem[10] = 0
+		dataMem[3] = 0		dataMem[11] = 0
+		dataMem[4] = 0		dataMem[12] = 0
+		dataMem[5] = 0		dataMem[13] = 0
+		dataMem[6] = 0		dataMem[14] = 0
+		dataMem[7] = 0		dataMem[15] = 0
+	Registers:
+		regFile[0] = 0		regFile[4] = 0
+		regFile[1] = 0		regFile[5] = 0
+		regFile[2] = 0		regFile[6] = 0
+		regFile[3] = 0		regFile[7] = 0
+	IF/ID:
+		Instruction: lw $3,8($0)
+		PCPlus4: 12
+	ID/EX:
+		Instruction: lw $2,4($0)
+		PCPlus4: 8
+		branchTarget: 0
+		readData1: 0
+		readData2: 2
+		immed: 0
+		rs: 0
+		rt: 0
+		rd: 0
+	EX/MEM:
+		Instruction: lw $1,0($0)
+		aluResult: 32739
+		writeDataReg: 1
+		writeReg:0
+	MEM/WB:
+		Instruction: NOOP
+		writeDataMem: 0
+		writeDataALU: 0
+		writeReg: 0
+
+********************
+State at the beginning of cycle 5:
+	PC = 16
+	Data Memory:
+		dataMem[0] = 1		dataMem[8] = 0
+		dataMem[1] = 2		dataMem[9] = 0
+		dataMem[2] = 3		dataMem[10] = 0
+		dataMem[3] = 0		dataMem[11] = 0
+		dataMem[4] = 0		dataMem[12] = 0
+		dataMem[5] = 0		dataMem[13] = 0
+		dataMem[6] = 0		dataMem[14] = 0
+		dataMem[7] = 0		dataMem[15] = 0
+	Registers:
+		regFile[0] = 0		regFile[4] = 0
+		regFile[1] = 0		regFile[5] = 0
+		regFile[2] = 0		regFile[6] = 0
+		regFile[3] = 0		regFile[7] = 0
+	IF/ID:
+		Instruction: halt
+		PCPlus4: 16
+	ID/EX:
+		Instruction: lw $3,8($0)
+		PCPlus4: 12
+		branchTarget: 0
+		readData1: 0
+		readData2: 3
+		immed: 0
+		rs: 0
+		rt: 0
+		rd: 0
+	EX/MEM:
+		Instruction: lw $2,4($0)
+		aluResult: 32739
+		writeDataReg: 2
+		writeReg:0
+	MEM/WB:
+		Instruction: lw $1,0($0)
+		writeDataMem: 0
+		writeDataALU: 0
+		writeReg: 0
+
+********************
+State at the beginning of cycle 6:
+	PC = 20
+	Data Memory:
+		dataMem[0] = 1		dataMem[8] = 0
+		dataMem[1] = 2		dataMem[9] = 0
+		dataMem[2] = 3		dataMem[10] = 0
+		dataMem[3] = 0		dataMem[11] = 0
+		dataMem[4] = 0		dataMem[12] = 0
+		dataMem[5] = 0		dataMem[13] = 0
+		dataMem[6] = 0		dataMem[14] = 0
+		dataMem[7] = 0		dataMem[15] = 0
+	Registers:
+		regFile[0] = 0		regFile[4] = 0
+		regFile[1] = 0		regFile[5] = 0
+		regFile[2] = 0		regFile[6] = 0
+		regFile[3] = 0		regFile[7] = 0
+	IF/ID:
+		Instruction: NOOP
+		PCPlus4: 20
+	ID/EX:
+		Instruction: halt
+		PCPlus4: 16
+		branchTarget: 0
+		readData1: 0
+		readData2: 0
+		immed: 0
+		rs: 0
+		rt: 0
+		rd: 0
+	EX/MEM:
+		Instruction: lw $3,8($0)
+		aluResult: 32739
+		writeDataReg: 3
+		writeReg:0
+	MEM/WB:
+		Instruction: lw $2,4($0)
+		writeDataMem: 0
+		writeDataALU: 0
+		writeReg: 0
+
+********************
+State at the beginning of cycle 7:
+	PC = 24
+	Data Memory:
+		dataMem[0] = 1		dataMem[8] = 0
+		dataMem[1] = 2		dataMem[9] = 0
+		dataMem[2] = 3		dataMem[10] = 0
+		dataMem[3] = 0		dataMem[11] = 0
+		dataMem[4] = 0		dataMem[12] = 0
+		dataMem[5] = 0		dataMem[13] = 0
+		dataMem[6] = 0		dataMem[14] = 0
+		dataMem[7] = 0		dataMem[15] = 0
+	Registers:
+		regFile[0] = 0		regFile[4] = 0
+		regFile[1] = 0		regFile[5] = 0
+		regFile[2] = 0		regFile[6] = 0
+		regFile[3] = 0		regFile[7] = 0
+	IF/ID:
+		Instruction: NOOP
+		PCPlus4: 24
+	ID/EX:
+		Instruction: NOOP
+		PCPlus4: 20
+		branchTarget: 0
+		readData1: 0
+		readData2: 0
+		immed: 0
+		rs: 0
+		rt: 0
+		rd: 0
+	EX/MEM:
+		Instruction: halt
+		aluResult: 32739
+		writeDataReg: 0
+		writeReg:0
+	MEM/WB:
+		Instruction: lw $3,8($0)
+		writeDataMem: 0
+		writeDataALU: 0
+		writeReg: 0
+
+********************
+State at the beginning of cycle 8:
+	PC = 28
+	Data Memory:
+		dataMem[0] = 1		dataMem[8] = 0
+		dataMem[1] = 2		dataMem[9] = 0
+		dataMem[2] = 3		dataMem[10] = 0
+		dataMem[3] = 0		dataMem[11] = 0
+		dataMem[4] = 0		dataMem[12] = 0
+		dataMem[5] = 0		dataMem[13] = 0
+		dataMem[6] = 0		dataMem[14] = 0
+		dataMem[7] = 0		dataMem[15] = 0
+	Registers:
+		regFile[0] = 0		regFile[4] = 0
+		regFile[1] = 0		regFile[5] = 0
+		regFile[2] = 0		regFile[6] = 0
+		regFile[3] = 0		regFile[7] = 0
+	IF/ID:
+		Instruction: NOOP
+		PCPlus4: 28
+	ID/EX:
+		Instruction: NOOP
+		PCPlus4: 24
+		branchTarget: 0
+		readData1: 0
+		readData2: 0
+		immed: 0
+		rs: 0
+		rt: 0
+		rd: 0
+	EX/MEM:
+		Instruction: NOOP
+		aluResult: 32739
+		writeDataReg: 0
+		writeReg:0
+	MEM/WB:
+		Instruction: halt
+		writeDataMem: 0
+		writeDataALU: 0
+		writeReg: 0
+Total number of cycles executed: 7

@@ -1,0 +1,3 @@
+This programming project is implemented in PYTHON3.4
+The levenshtien distance is took from http://en.wikibooks.org/wiki/Algorithm_Implementation/Strings/Levenshtein_distance
+python3.4 imdbscraper.py gives a table by default and the example file is needed_movies.txt.

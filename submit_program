@@ -1,0 +1,27 @@
+#!/bin/bash
+
+#######################################################
+
+if [ "$#" -eq 2 ]; then
+
+    unset pyclass_username
+    unset pyclass_password
+
+    echo "Enter username:"
+    read pyclass_username
+
+    echo "Enter password"
+    read -s pyclass_password
+
+    curl -F "file=@$2" -F "enctype=multipart/form-data" "http://128.186.61.238:5000/user/$pyclass_username/password/$pyclass_password/upload/$1"
+else
+
+    printf "
+Usage:
+         ./submit <problem_no> <file_name>
+
+"
+
+fi
+
+#######################################################

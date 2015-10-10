@@ -1,0 +1,12 @@
+I have used python3.4 for programming the given assignment.
+The programs can be executed using the below commands:
+python3 interval.py
+python3 lcs.py
+
+Alternatively these can be executed using the make file with the commands
+make -f MAKEFILE testinterval
+make -f MAKEFILE testlcs
+
+Test files have also been provided.
+For interval.py, the input file is input_interval.txt
+For lcs.py, the input file is lcsinput.txt

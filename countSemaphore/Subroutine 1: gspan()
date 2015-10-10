@@ -1,0 +1,37 @@
+Subroutine 1: gspan()
+    Read graphs into the database;
+    Find frequent labels from the database;
+    Reconstruct the graph and load it into the memory;
+    projection = Construct candidate edges;
+    subgraph_mining(projection);
+ 
+Subroutine 2: subgraph_mining(projection)
+    if (support(projection) < min_support)
+        return;
+    if (!is_min(projection, 0))
+        return;
+ 
+    enumerate(projection);
+    do subgraph_mining(projection.backward);
+    do subgraph_mining(projection.forward);
+ 
+Subroutine 3: is_min(projection, idx)
+    construct current graph by dfs_codes;
+ 
+    if (backward_judge())
+        return is_min(projection, idx + 1);
+    else if (forward_judge())
+        return is_min(projection, idx + 1)
+    else
+        return false;
+ 
+    return false;
+ 
+Subroutine 4: enumerate(projection)
+    for each graph in the projection do
+        backward_extension(projection);
+ 
+        forward_first_extension(projection);
+ 
+        forward_other_extension(projection);
+    end

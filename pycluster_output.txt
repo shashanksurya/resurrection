@@ -1,0 +1,363 @@
+Starting with the dataset data1.txt, algorithm kmeans and clusters = 2
+
+ the centers are
+[[1.5], [1.8]]
+This is 0th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 5 iterations!------- 
+
+The clusters are:
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+
+ The kmeans cost for this iteration is 4.647272727272728and mincost: 4.647272727272728
+
+ the centers are
+[[0.5], [1.0]]
+This is 1th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 3 iterations!------- 
+
+The clusters are:
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+
+ The kmeans cost for this iteration is 4.647272727272728and mincost: 4.647272727272728
+
+ the centers are
+[[2.2], [0.3]]
+This is 2th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 2 iterations!------- 
+
+The clusters are:
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+
+ The kmeans cost for this iteration is 4.647272727272727and mincost: 4.647272727272727
+
+ the centers are
+[[1.8], [1.6]]
+This is 3th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 6 iterations!------- 
+
+The clusters are:
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+
+ The kmeans cost for this iteration is 4.647272727272727and mincost: 4.647272727272727
+
+ the centers are
+[[2.7], [1.0]]
+This is 4th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 7 iterations!------- 
+
+The clusters are:
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+
+ The kmeans cost for this iteration is 4.647272727272727and mincost: 4.647272727272727
+
+ the centers are
+[[2.2], [3.0]]
+This is 5th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 9 iterations!------- 
+
+The clusters are:
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+
+ The kmeans cost for this iteration is 4.647272727272728and mincost: 4.647272727272727
+
+ the centers are
+[[0.5], [2.7]]
+This is 6th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 5 iterations!------- 
+
+The clusters are:
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+
+ The kmeans cost for this iteration is 4.647272727272728and mincost: 4.647272727272727
+
+ the centers are
+[[1.5], [0.7]]
+This is 7th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 2 iterations!------- 
+
+The clusters are:
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+
+ The kmeans cost for this iteration is 4.647272727272727and mincost: 4.647272727272727
+
+ the centers are
+[[1.5], [2.2]]
+This is 8th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 7 iterations!------- 
+
+The clusters are:
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+
+ The kmeans cost for this iteration is 4.647272727272728and mincost: 4.647272727272727
+
+ the centers are
+[[2.5], [2.2]]
+This is 9th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 8 iterations!------- 
+
+The clusters are:
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+
+ The kmeans cost for this iteration is 4.647272727272727and mincost: 4.647272727272727
+
+ the centers are
+[[0.5], [1.4]]
+This is 10th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 3 iterations!------- 
+
+The clusters are:
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+
+ The kmeans cost for this iteration is 4.647272727272728and mincost: 4.647272727272727
+
+ the centers are
+[[1.4], [1.5]]
+This is 11th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 3 iterations!------- 
+
+The clusters are:
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+
+ The kmeans cost for this iteration is 4.647272727272728and mincost: 4.647272727272727
+
+ the centers are
+[[2.7], [0.3]]
+This is 12th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 4 iterations!------- 
+
+The clusters are:
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+
+ The kmeans cost for this iteration is 4.647272727272727and mincost: 4.647272727272727
+
+ the centers are
+[[1.8], [0.5]]
+This is 13th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 2 iterations!------- 
+
+The clusters are:
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+
+ The kmeans cost for this iteration is 4.647272727272727and mincost: 4.647272727272727
+
+ the centers are
+[[2.0], [0.5]]
+This is 14th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 2 iterations!------- 
+
+The clusters are:
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+
+ The kmeans cost for this iteration is 4.647272727272727and mincost: 4.647272727272727
+
+ the centers are
+[[0.3], [2.7]]
+This is 15th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 4 iterations!------- 
+
+The clusters are:
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+
+ The kmeans cost for this iteration is 4.647272727272728and mincost: 4.647272727272727
+
+ the centers are
+[[1.6], [1.4]]
+This is 16th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 3 iterations!------- 
+
+The clusters are:
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+
+ The kmeans cost for this iteration is 4.647272727272727and mincost: 4.647272727272727
+
+ the centers are
+[[0.2], [0.3]]
+This is 17th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 4 iterations!------- 
+
+The clusters are:
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+
+ The kmeans cost for this iteration is 4.647272727272728and mincost: 4.647272727272727
+
+ the centers are
+[[3.0], [1.0]]
+This is 18th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 7 iterations!------- 
+
+The clusters are:
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+
+ The kmeans cost for this iteration is 4.647272727272727and mincost: 4.647272727272727
+
+ the centers are
+[[2.0], [0.7]]
+This is 19th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 2 iterations!------- 
+
+The clusters are:
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+
+ The kmeans cost for this iteration is 4.647272727272727and mincost: 4.647272727272727
+
+ the centers are
+[[3.0], [2.2]]
+This is 20th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 9 iterations!------- 
+
+The clusters are:
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+
+ The kmeans cost for this iteration is 4.647272727272727and mincost: 4.647272727272727
+
+ the centers are
+[[0.1], [2.7]]
+This is 21th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 3 iterations!------- 
+
+The clusters are:
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+
+ The kmeans cost for this iteration is 4.647272727272728and mincost: 4.647272727272727
+
+ the centers are
+[[1.7], [1.6]]
+This is 22th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 5 iterations!------- 
+
+The clusters are:
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+
+ The kmeans cost for this iteration is 4.647272727272727and mincost: 4.647272727272727
+
+ the centers are
+[[0.5], [1.7]]
+This is 23th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 2 iterations!------- 
+
+The clusters are:
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+
+ The kmeans cost for this iteration is 4.647272727272728and mincost: 4.647272727272727
+
+ the centers are
+[[0.3], [2.7]]
+This is 24th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 4 iterations!------- 
+
+The clusters are:
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+
+ The kmeans cost for this iteration is 4.647272727272728and mincost: 4.647272727272727
+
+ the centers are
+[[1.8], [1.0]]
+This is 25th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 3 iterations!------- 
+
+The clusters are:
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+
+ The kmeans cost for this iteration is 4.647272727272727and mincost: 4.647272727272727
+
+ the centers are
+[[1.6], [1.5]]
+This is 26th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 4 iterations!------- 
+
+The clusters are:
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+
+ The kmeans cost for this iteration is 4.647272727272727and mincost: 4.647272727272727
+
+ the centers are
+[[2.5], [1.5]]
+This is 27th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 7 iterations!------- 
+
+The clusters are:
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+
+ The kmeans cost for this iteration is 4.647272727272727and mincost: 4.647272727272727
+
+ the centers are
+[[0.1], [0.7]]
+This is 28th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 4 iterations!------- 
+
+The clusters are:
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+
+ The kmeans cost for this iteration is 4.647272727272728and mincost: 4.647272727272727
+
+ the centers are
+[[0.5], [0.2]]
+This is 29th time lloyd_covergence is called!
+
+-------YAY! found the convergence point took 4 iterations!------- 
+
+The clusters are:
+[[3.0], [1.5], [1.6], [1.7], [1.4], [1.8], [2.5], [2.0], [2.7], [2.2], [3.2]]
+[[0.1], [0.7], [0.5], [0.2], [0.3], [1.0], [0.0]]
+
+ The kmeans cost for this iteration is 4.647272727272727and mincost: 4.647272727272727
+
+It took 0.011612415313720703 seconds to complete this

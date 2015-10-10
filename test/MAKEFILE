@@ -1,0 +1,5 @@
+#Make file for Assignment 5
+testinterval:
+	python3 interval.py input_interval.txt
+testlcs:
+	python3 lcs.py lcsinput.txt

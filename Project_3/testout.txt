@@ -1,0 +1,7184 @@
+
+ Available Matrix 
+10 2 4 
+
+ Maximum matrix is: 
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Need Matrix
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ creating 0
+ creating 1
+ creating 2
+ 0 customer request arrived 5 0 2 
+
+ 1 customer request arrived 
+ Available Matrix 
+5 2 2 1 
+1 
+-----allocation Matrix----
+5 0 2 
+0 0 0 
+0 0 
+0 0 
+0 0 
+ Available Matrix 
+0 4 1 
+2 0 
+0 
+-----allocation Matrix----
+5 0 2 
+1 1 0 
+0 0 0 
+
+-----need Matrix----
+3 1 1 
+0 0 0 2 
+0 
+0 1 0 0 3 
+
+7 0 0 0 
+
+-----need Matrix----
+3 1 1 1 3 
+
+7 0 0 2 0 
+
+-----max Matrix----
+2 
+8 1 1 3 0 
+3 1 
+1 7 2 
+1 1 0 3 3 
+7 
+1 7 3 
+0 7 2 0 2 
+
+
+-----max Matrix----
+8 1 
+ Hurray! I am accepted 03 
+ Customer 0 
+5 0 1 2 1 :Request Accepted
+2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Hurray! I am accepted 1
+ Customer 1 1 1 0 :Request Accepted
+
+ creating 3
+ 2 customer request arrived 2 0 0 
+
+ Customer 2 2 0 0 :Request Denied
+
+ creating 4
+ 3 customer request arrived 1 0 1 
+
+ Available Matrix 
+3 1 1 
+
+-----allocation Matrix----
+5 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+3 1 1 
+0 0 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Hurray! I am accepted 3
+ Customer 3 1 0 1 :Request Accepted
+
+ creating 0
+ creating 1
+ 4 customer request arrived 0 0 0 
+
+ creating 2
+ Available Matrix 
+3 1 1 
+
+-----allocation Matrix----
+
+ 0 customer request arrived 2 0 0 
+5 
+ Available Matrix 
+0 2 1 1 1 
+
+-----allocation Matrix----
+
+ creating 37 0 2 
+1 1 0 
+
+0 1 0 1 0 0 
+
+0 0 1 0 0 
+1 1 
+0 0 0 1 0 
+0 
+0 
+-----need Matrix----
+0 1 1 1 
+0 0 2 
+
+ creating 4
+
+ 1 customer request arrived 0 0 0 
+
+-----need Matrix----
+
+ 3 customer request arrived 
+ 2 customer request arrived 0 0 0 
+0 0 
+ Available Matrix 
+0 1 1 1 1 1 1 
+
+
+-----allocation Matrix----
+
+
+ creating 07 0 2 
+1 
+ Available Matrix 
+1 0 1 0 1 
+ Available Matrix 
+1 0 
+1 
+-----allocation Matrix----
+1 7 1 0 2 2 
+
+ creating 1
+1 1 0 1 3 0 
+
+0 6 
+0 
+-----allocation Matrix----
+0 7 1 0 2 
+2 7 
+0 1 2 
+ creating 2
+
+1 
+0 1 
+-----max Matrix----
+
+8 0 1 0 0 3 
+
+0 
+ creating 3
+ 1 customer request arrived 0 0 0 
+0 0 
+-----need Matrix----
+
+ Available Matrix 
+1 1 1 1 1 
+0 0 2 
+1 0 3 
+6 1 2 
+7 0 2 
+1 
+-----max Matrix----
+
+8 
+-----allocation Matrix----
+1 7 0 
+2 3 
+1 1 
+ creating 41 1 1 0 2 
+
+1 0 0 0 0 0 
+1 
+0 0 0 
+
+-----need Matrix----
+3 
+ creating 01 1 
+1 7 
+
+ 4 customer request arrived 1 0 3 1 0 1 
+2 1 
+ creating 1
+1 0 0 1 0 
+0 0 
+0 0 
+
+-----need Matrix----
+
+ Available Matrix 
+1 1 1 1 1 1 
+0 
+0 
+-----allocation Matrix----
+2 
+7 1 0 0 3 0 2 
+
+ creating 2
+1 0 3 
+7 1 3 3 6 
+7 
+1 2 2 
+1 6 1 
+1 7 0 2 0 
+2 7 
+ creating 30 
+
+0 
+ Hurray! I am accepted 4
+ Customer 4 0 0 0 2 :Request Accepted
+
+2 
+ Hurray! I am accepted 3
+
+-----max Matrix----
+
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Hurray! I am accepted 1
+ Customer 1 0 0 0 :Request Accepted
+
+ Customer 3 8 0 1 0 3 0 1 
+ 1 customer request arrived 
+ 0 customer request arrived 0 0 :Request Accepted
+0 0 
+0 3 1 
+6 1 1 0 2 1 0 
+0 0 0 
+ Available Matrix 
+0 1 
+2 1 1 
+
+-----allocation Matrix----
+7 0 
+
+ Available Matrix 
+2 1 7 1 1 
+
+
+
+
+-----allocation Matrix----
+0 1 7 0 0 1 2 
+0 
+1 0 1 0 
+ 2 customer request arrived 0 0 0 
+0 0 
+
+ Available Matrix 
+1 1 2 1 1 
+
+-----allocation Matrix----
+0 
+3 
+-----max Matrix----
+0 
+8 7 1 1 3 3 
+7 1 
+0 1 2 2 7 
+
+1 1 0 
+1 1 3 
+-----need Matrix----
+0 
+0 1 
+7 1 1 1 2 
+0 0 2 
+1 0 0 3 3 
+0 
+
+0 6 
+1 1 0 2 1 
+7 7 1 0 0 2 2 
+
+
+-----max Matrix----
+8 1 3 
+0 
+ Hurray! I am accepted 0
+ Customer 0 2 
+0 1 
+ Hurray! I am accepted 20 1 
+ Customer 2 2 0 0 0 0 0 
+
+0 1 0 
+-----need Matrix----
+
+0 1 1 
+1 :Request Accepted
+1 0 1 3 
+0 
+0 0 0 
+0 0 
+7 0 1 0 1 
+2 :Request Accepted
+
+-----need Matrix----
+
+3 1 
+
+7 1 0 0 0 3 0 
+
+1 0 6 1 1 
+0 2 2 
+0 7 0 0 0 2 
+
+
+-----need Matrix----
+
+-----max Matrix----
+
+ creating 40 8 1 
+
+1 
+ Hurray! I am accepted 43 
+ Customer 4 
+0 0 
+ 3 customer request arrived 0 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+0 1 
+
+-----need Matrix----
+1 1 0 1 0 :Request Accepted
+1 
+ creating 01 
+1 0 2 0 2 
+
+1 1 0 0 3 3 
+7 1 
+3 
+7 0 6 2 1 
+2 
+7 
+ Hurray! I am accepted 20 
+ Customer 2 2 0 
+
+-----max Matrix----
+0 8 
+1 0 0 1 3 0 1 :Request Accepted
+
+ 4 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+0 0 2 
+1 0 3 
+6 1 
+2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 1 
+0 
+ creating 10 0 2 
+1 0 
+0 1 3 
+6 1 2 
+7 0 1 0 
+0 2 0 
+
+-----max Matrix----
+0 8 1 
+3 
+
+-----need Matrix----
+1 1 1 1 2 1 
+
+0 1 0 0 2 3 
+1 
+0 7 3 
+6 1 1 3 2 
+7 
+7 0 0 2 2 
+
+-----max Matrix----
+
+8 1 
+ Hurray! I am accepted 1
+ creating 2
+ 0 customer request arrived 
+ Customer 1 0 0 0 0 0 
+0 :Request Accepted
+
+ Available Matrix 
+1 1 1 
+ Customer 1 released resouces
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 1 
+ 2 customer request arrived 0 1 0 1 0 
+ creating 31 
+ 3 customer request arrived 2 0 
+0 1 0 0 3 
+
+7 1 3 
+7 
+ Available Matrix 
+0 1 
+ Customer 2 released resouces1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+
+ 4 customer request arrived 
+2 0 2 0 2 0 
+1 
+0 3 
+
+ Available Matrix 
+6 1 1 1 1 2 
+
+7 
+-----allocation Matrix----
+0 7 2 0 
+2 
+
+-----max Matrix----
+
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+
+ Available Matrix 
+7 1 0 2 1 
+1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 
+ Customer 0 0 0 
+0 0 0 0 1 0 2 1 
+
+0 
+1 0 0 0 0 
+1 0 1 
+0 0 8 0 1 1 :Request Denied
+
+3 0 
+0 1 0 1 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+
+-----need Matrix----
+1 
+ Customer 2 1 0 0 1 0 
+:Request Denied
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+
+ creating 4
+ creating 0
+ 4 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 
+ creating 13 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+
+ creating 2
+ 1 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+ creating 3
+7 0 2 
+
+ Customer 1 0 0 0 :Request Denied
+
+ creating 4
+ 3 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 
+ creating 01 1 
+2 2 2 
+1 0 
+ 4 customer request arrived 0 0 0 
+
+ Available Matrix 
+3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 1 
+ creating 11 1 
+
+-----allocation Matrix----
+7 0 2 
+1 3 1 
+0 
+1 0 1 0 2 
+1 0 0 
+1 3 0 1 
+
+0 7 0 1 3 0 
+
+
+-----need Matrix----
+
+ creating 21 1 1 
+2 2 2 
+1 0 3 
+6 1 7 2 0 
+2 
+7 0 2 
+
+-----max Matrix----
+
+ Customer 3 8 0 1 0 3 0 
+:Request Denied
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+
+ creating 33 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 3 0 0 0 :Request Denied
+
+ creating 4
+ creating 0
+ 4 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 
+ creating 11 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+
+ creating 2
+ creating 3
+ 2 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 
+ creating 42 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+
+ creating 0
+ creating 1
+ 0 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 0 0 0 0 :Request Denied
+
+ creating 2
+ creating 3
+ 2 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 
+ 1 customer request arrived 0 0 0 
+2 
+7 0 2 
+
+-----max Matrix----
+8 1 
+ creating 43 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+
+ creating 0
+ 4 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 
+ creating 13 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+0 
+ creating 2
+ creating 3
+ 2 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 
+ creating 4
+ 2 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 
+ creating 00 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+
+ 4 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 2 
+
+-----allocation Matrix----
+
+ Customer 1 0 0 0 :Request Denied
+
+
+ Customer 0 0 0 0 :Request Denied
+
+ creating 17 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 2 
+ 0 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 2 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 
+ 4 customer request arrived 
+ 0 customer request arrived 0 0 0 
+
+ Available Matrix 
+
+ creating 21 0 1 1 
+
+-----allocation Matrix----
+7 0 2 0 
+0 1 
+1 
+ Available Matrix 
+0 1 
+0 1 0 1 0 
+1 
+
+-----allocation Matrix----
+
+ 1 customer request arrived 7 0 
+ creating 3
+ 1 customer request arrived 0 0 0 
+2 
+1 
+ Available Matrix 
+1 1 0 1 1 
+
+
+-----allocation Matrix----
+
+7 1 0 
+ creating 40 0 0 
+
+ 3 customer request arrived 
+0 
+ 3 customer request arrived 1 0 0 
+ 2 customer request arrived 0 0 0 
+0 
+ Available Matrix 
+1 
+
+ creating 0
+ Available Matrix 
+1 1 1 1 1 
+1 1 
+
+
+-----allocation Matrix----
+
+-----allocation Matrix----
+0 7 0 0 
+ 0 customer request arrived 0 0 0 
+0 0 
+ Available Matrix 
+0 
+ creating 1
+
+ 3 customer request arrived 0 0 0 1 
+ Available Matrix 
+1 1 1 1 
+
+-----allocation Matrix----
+1 7 
+0 
+-----allocation Matrix----
+
+7 2 0 
+ Available Matrix 
+2 
+1 1 
+1 1 0 1 
+ 3 customer request arrived 
+1 0 0 0 0 0 0 
+
+
+
+-----allocation Matrix----
+
+ Available Matrix 
+0 
+ creating 20 1 7 0 
+0 
+2 0 
+0 1 0 1 1 0 0 0 
+
+-----need Matrix----
+
+0 0 0 
+1 0 1 1 1 
+ 0 customer request arrived 0 0 0 
+ creating 30 1 
+0 1 0 
+0 0 0 
+
+-----need Matrix----
+0 
+ 2 customer request arrived 0 
+1 0 1 7 
+0 2 
+-----need Matrix----
+
+ creating 41 2 
+ 2 customer request arrived 0 0 2 0 0 2 1 
+
+1 1 
+ Available Matrix 
+1 
+1 1 1 
+ creating 01 1 1 
+2 1 2 0 
+2 
+-----allocation Matrix----
+
+
+1 7 2 0 2 3 2 
+0 
+0 
+ creating 12 1 
+6 0 3 1 
+3 1 6 0 1 1 
+2 0 
+
+ creating 2
+7 0 0 0 2 
+
+1 
+-----max Matrix----
+2 0 8 
+1 7 3 
+ 0 customer request arrived 0 0 0 
+2 0 
+ Available Matrix 
+
+1 1 
+1 3 
+-----max Matrix----
+
+ 1 customer request arrived 0 
+1 1 2 
+1 0 3 
+7 8 1 1 
+ 1 customer request arrived 0 0 3 
+ creating 30 0 
+
+0 1 
+ Available Matrix 
+
+1 1 2 
+ Available Matrix 
+1 1 6 1 1 
+2 
+-----allocation Matrix----
+
+7 1 
+
+ creating 40 1 1 2 7 
+
+-----allocation Matrix----
+0 
+ Available Matrix 
+1 7 2 0 2 
+
+1 
+-----max Matrix----
+1 8 0 1 
+1 0 1 0 
+0 0 
+-----allocation Matrix----
+
+
+ creating 07 
+3 1 
+0 1 3 2 
+1 7 1 0 0 2 
+1 1 0 1 
+
+0 3 
+ creating 10 0 
+0 
+
+0 0 1 1 0 
+1 1 
+ 0 customer request arrived 0 0 0 1 
+ creating 27 0 
+
+0 2 0 
+ Available Matrix 
+0 
+
+1 0 
+-----need Matrix----
+
+ 1 customer request arrived 0 0 3 0 
+ creating 3
+0 7 0 0 1 3 
+
+7 0 2 
+ Available Matrix 
+
+1 1 
+ Customer 3 1 0 1 
+
+ creating 40 
+
+-----allocation Matrix----
+0 7 0 0 0 0 
+:Request Denied
+0 2 2 
+
+-----need Matrix----
+1 1 1 1 1 0 
+
+2 0 2 2 0 
+0 1 
+ creating 00 
+3 
+6 1 1 0 2 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 
+2 2 7 
+0 2 
+
+
+-----max Matrix----
+1 8 1 
+ Customer 0 
+ 3 customer request arrived 3 0 0 
+0 0 0 0 
+ creating 1
+
+3 1 0 
+
+ Available Matrix 
+1 1 
+6 0 1 0 2 0 
+7 
+0 
+-----need Matrix----
+2 1 
+
+-----max Matrix----
+1 1 0 1 1 
+
+-----allocation Matrix----
+0 
+7 
+0 0 0 0 
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+2 
+
+ creating 2
+1 1 0 
+0 0 0 
+1 0 1 
+-----need Matrix----
+
+0 0 0 
+
+-----need Matrix----
+1 1 1 1 
+2 2 2 
+1 0 3 
+1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 
+ creating 30 
+ 2 customer request arrived 0 0 1 0 :Request Denied
+2 
+1 0 3 
+7 1 3 
+7 0 0 
+2 
+
+ Available Matrix 
+1 
+ Customer 1 1 0 0 1 0 
+ creating 4
+:Request Denied
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+8 
+1 1 1 3 1 2 
+
+
+1 0 6 3 0 0 
+1 0 1 
+0 0 0 1 
+
+-----need Matrix----
+2 1 
+7 1 0 2 1 
+
+2 
+-----max Matrix----
+2 8 2 1 
+
+ creating 01 0 
+0 3 3 
+
+6 1 1 3 1 
+2 2 
+7 
+1 0 1 2 7 
+ creating 1
+1 
+
+-----max Matrix----
+3 8 
+7 1 0 2 3 
+
+1 1 2 0 0 2 
+
+ Customer 4 2 0 0 
+ creating 2
+0 
+0 :Request Denied
+1 
+ Available Matrix 
+1 1 0 3 1 
+6 1 1 1 2 3 1 
+
+7 7 1 0 1 
+ Available Matrix 
+2 1 3 
+
+ creating 31 
+7 
+-----max Matrix----
+7 
+8 1 3 
+1 1 2 
+1 0 0 1 2 1 
+
+-----need Matrix----
+0 
+0 1 
+ Customer 4 1 0 0 0 0 3 0 
+
+7 0 1 1 1 3 
+7 0 2 
+:Request Denied
+1 
+ Customer 1 2 
+
+-----allocation Matrix----
+0 7 0 2 
+1 1 0 1 0 2 1 0 1 
+
+2 :Request Denied
+2 
+ Customer 1 2 0 0 
+1 0 :Request Denied
+
+0 
+1 
+-----allocation Matrix----
+
+ 3 customer request arrived 0 0 
+0 2 
+2 2 
+1 
+ Available Matrix 
+0 1 3 1 
+6 
+ creating 4
+ 4 customer request arrived 0 0 1 2 
+ 3 customer request arrived 
+ 0 customer request arrived 
+0 7 7 0 0 0 1 
+ 1 customer request arrived 0 0 0 2 0 
+
+
+-----max Matrix----
+0 2 
+ Available Matrix 
+
+
+1 
+-----allocation Matrix----
+
+1 7 1 0 0 
+
+ Available Matrix 
+1 1 1 3 
+1 
+
+7 
+-----allocation Matrix----
+1 0 
+ 2 customer request arrived 0 0 0 3 7 
+
+
+0 
+ Available Matrix 
+3 1 2 
+ 3 customer request arrived 0 0 0 
+0 
+7 3 0 
+
+ Available Matrix 
+
+2 1 6 1 
+ 4 customer request arrived 0 0 1 1 
+
+ 0 customer request arrived 0 0 0 0 
+
+2 0 
+ Customer 3 0 0 0 :Request Denied
+
+ 1 customer request arrived 0 0 0 0 2 
+0 
+
+7 
+ 2 customer request arrived 0 0 0 
+1 0 1 0 0 0 
+ Available Matrix 
+1 
+3 0 
+ 1 customer request arrived 
+1 0 1 0 1 0 3 0 
+0 
+-----allocation Matrix----
+
+
+7 
+ Available Matrix 
+7 0 2 
+1 1 0 
+0 0 1 1 
+
+ 3 customer request arrived 0 0 0 
+1 1 
+ Available Matrix 
+3 1 
+1 
+ Available Matrix 
+
+7 1 0 1 2 1 
+
+-----allocation Matrix----
+
+ Customer 3 
+ 4 customer request arrived 0 0 
+-----allocation Matrix----
+
+0 0 7 
+-----allocation Matrix----
+7 0 7 1 
+0 0 1 2 0 0 
+
+
+ 0 customer request arrived 0 0 0 
+0 
+0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+0 
+ 1 customer request arrived 0 :Request Denied
+0 0 1 1 0 
+
+
+-----allocation Matrix----
+1 7 0 1 2 
+
+1 2 
+ 2 customer request arrived 2 
+0 2 0 
+0 1 
+0 3 
+6 1 
+ 0 customer request arrived 2 0 0 
+0 1 
+0 0 
+ Available Matrix 
+
+3 
+7 1 1 1 1 3 
+
+-----allocation Matrix----
+
+ 4 customer request arrived 
+7 1 3 0 0 
+
+0 1 7 0 
+-----allocation Matrix----
+0 0 7 0 
+
+-----need Matrix----
+1 1 1 
+2 
+0 1 2 
+ Available Matrix 
+
+1 1 0 2 1 0 2 1 
+
+
+
+-----allocation Matrix----
+
+-----need Matrix----
+1 0 1 0 7 3 1 1 
+0 1 2 0 
+
+1 2 1 2 0 
+
+2 0 2 0 
+0 2 1 
+0 
+3 1 
+1 
+1 0 0 0 1 1 0 
+1 0 1 
+0 
+0 0 0 0 
+1 0 
+-----need Matrix----
+
+
+-----need Matrix----
+1 1 1 6 0 1 1 1 2 0 
+
+7 2 1 0 
+
+-----allocation Matrix----
+1 
+-----need Matrix----
+
+0 1 1 1 
+
+-----allocation Matrix----
+1 7 7 0 0 0 2 
+1 1 0 
+0 0 2 0 2 6 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 
+1 1 
+-----max Matrix----
+2 1 8 1 1 1 
+3 
+-----allocation Matrix----
+
+1 7 0 1 2 2 
+
+
+1 7 1 0 2 1 
+2 0 1 
+
+-----max Matrix----
+8 1 3 
+1 
+ Available Matrix 
+3 1 
+
+ creating 0
+2 7 0 1 1 1 1 
+
+-----allocation Matrix----
+7 0 2 3 
+
+7 0 1 
+0 1 
+1 1 0 0 0 2 1 
+0 
+
+
+ Customer 2 0 0 0 0 3 0 0 
+
+7 
+-----need Matrix----
+1 0 1 1 3 1 
+
+2 7 2 0 2 0 
+:Request Denied
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 0 0 2 0 
+0 
+
+-----need Matrix----
+1 
+ Customer 2 1 0 1 0 
+0 
+:Request Denied
+7 0 2 
+
+ Customer 3 3 0 
+1 0 0 :Request Denied
+1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 1 0 0 0 :Request Denied
+
+ creating 11 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 3 0 0 0 :Request Denied
+
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 
+ creating 21 
+ 1 customer request arrived 
+ Available Matrix 
+
+0 0 0 
+
+ Available Matrix 
+1 1 1 1 2 
+1 
+-----allocation Matrix----
+
+ Available Matrix 
+1 
+
+-----allocation Matrix----
+7 0 7 1 
+ creating 30 2 
+1 1 0 
+2 0 0 
+1 1 0 
+0 0 0 
+1 0 
+
+ Available Matrix 
+1 
+0 0 0 
+
+-----need Matrix----
+1 0 1 1 1 
+2 2 2 
+1 1 
+7 1 
+
+-----allocation Matrix----
+7 0 2 
+0 
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+1 7 1 0 0 2 
+3 
+0 1 0 1 0 
+
+ creating 4
+
+1 6 1 1 0 2 
+1 
+8 0 7 1 1 3 
+1 1 2 
+1 0 0 3 0 
+7 
+0 1 3 
+2 7 
+ Available Matrix 
+
+0 1 0 
+1 1 
+
+-----allocation Matrix----
+7 0 0 2 0 2 
+
+ creating 0
+-----max Matrix----
+2 2 
+1 1 0 
+3 
+1 8 6 1 0 2 
+-----need Matrix----
+
+
+0 1 7 0 1 0 2 0 
+
+ creating 11 
+1 1 0 
+0 1 2 3 
+0 
+0 0 0 2 
+ creating 20 0 
+
+2 
+-----need Matrix----
+2 
+1 
+1 1 1 1 0 1 
+
+2 1 1 2 2 2 0 
+1 0 0 0 3 
+
+
+1 
+ creating 30 0 0 
+1 0 1 
+1 7 0 
+-----max Matrix----
+1 0 3 8 0 1 1 
+3 
+
+
+-----need Matrix----
+7 
+ 1 customer request arrived 1 0 0 
+ creating 41 0 1 0 0 
+
+2 2 
+
+ Available Matrix 
+1 2 
+ Customer 0 1 0 1 0 2 0 
+ 4 customer request arrived 
+1 0 
+ creating 03 0 
+2 3 6 
+1 2 
+0 
+7 6 :Request Denied
+1 2 
+7 0 2 
+
+-----max Matrix----
+1 8 1 
+ creating 1
+ 3 customer request arrived 3 0 
+0 1 0 1 1 2 
+
+-----allocation Matrix----
+
+1 7 0 1 0 2 
+1 1 0 
+0 0 
+2 0 0 0 
+0 
+-----max Matrix----
+0 8 
+3 1 1 
+3 
+7 0 1 1 1 0 
+ creating 23 
+0 
+0 0 0 0 0 
+
+
+-----need Matrix----
+1 1 
+1 1 1 
+7 0 
+ 1 customer request arrived 0 0 0 
+0 2 
+ Available Matrix 
+
+1 1 1 
+1 0 
+
+-----allocation Matrix----
+
+ creating 31 7 0 2 
+1 1 0 
+0 0 0 
+
+ Customer 1 2 2 
+2 1 0 0 1 0 3 0 0 
+1 
+0 1 0 0 0 1 
+
+-----need Matrix----
+
+:Request Denied
+1 0 1 1 0 
+0 2 
+2 
+-----need Matrix----
+2 1 1 
+1 
+ creating 42 
+
+1 7 0 1 3 
+3 6 
+7 1 0 2 2 
+
+7 0 2 
+ Customer 2 
+0 
+-----max Matrix----
+0 8 1 0 3 
+1 :Request Denied
+1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 1 0 0 0 :Request Denied
+
+ creating 0
+ 4 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 2 0 2 
+
+1 1 
+ Customer 1 0 0 
+0 0 0 0 :Request Denied
+0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+
+ creating 17 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+
+ 0 customer request arrived 0 0 0 0 
+0 
+
+-----need Matrix----
+1 
+ Available Matrix 
+1 1 1 1 1 
+
+
+-----allocation Matrix----
+0 7 1 0 2 
+
+1 0 1 0 0 
+0 0 0 0 
+
+1 
+-----need Matrix----
+0 1 1 
+0 1 0 1 
+1 0 2 1 2 2 
+ creating 2
+
+1 1 0 
+-----need Matrix----
+
+1 2 2 2 
+1 0 3 
+6 1 0 1 
+ creating 32 
+1 7 3 
+0 
+2 6 2 2 1 2 2 
+0 
+ creating 42 0 1 2 
+1 0 0 3 
+
+1 0 
+0 
+6 0 1 
+ creating 00 0 2 3 
+7 
+
+
+-----need Matrix----
+7 1 1 1 
+2 2 2 
+1 0 0 2 3 
+
+6 
+-----max Matrix----
+1 8 0 2 
+ creating 10 2 
+
+7 
+-----max Matrix----
+8 1 3 
+1 1 3 1 
+
+2 1 
+-----need Matrix----
+1 2 1 
+
+1 0 1 3 0 
+
+ creating 23 2 7 2 
+
+1 7 0 6 1 3 
+3 1 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+3 8 
+1 
+ creating 33 1 0 
+1 2 2 
+7 1 
+0 2 7 2 
+0 1 
+
+0 
+-----max Matrix----
+3 
+ creating 42 8 
+
+7 
+ Customer 0 0 0 0 :Request Denied
+1 3 
+7 0 2 
+1 
+ Customer 0 3 
+0 0 
+0 :Request Denied
+0 1 
+1 1 2 0 1 
+1 1 0 
+3 0 
+0 0 
+-----max Matrix----
+0 
+
+-----need Matrix----
+1 1 
+ creating 08 7 
+ Available Matrix 
+1 
+-----allocation Matrix----
+3 0 7 0 2 
+1 1 0 
+0 0 
+1 
+ Customer 2 0 
+1 0 1 1 3 
+ 3 customer request arrived 0 2 0 
+
+0 7 1 0 0 1 
+2 1 
+ Available Matrix 
+1 1 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 1 
+-----allocation Matrix----
+
+
+0 2 0 2 0 7 1 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+0 1 2 2 
+1 1 0 
+0 0 
+0 2 
+1 
+1 0 1 3 0 
+6 
+
+1 2 2 0 
+7 0 0 0 2 2 
+
+
+-----max Matrix----
+1 2 
+ Customer 0 8 0 
+0 1 1 0 0 3 0 
+1 
+:Request Denied
+0 0 3 0 
+0 1 7 
+1 2 
+-----allocation Matrix----
+
+1 7 0 2 
+1 1 0 0 
+3 
+
+1 0 0 0 7 0 1 1 0 0 3 
+0 
+7 0 0 0 2 
+3 1 
+
+0 7 1 
+ Customer 1 
+0 0 0 
+
+-----need Matrix----
+
+ Customer 4 1 0 0 0 0 1 
+ 4 customer request arrived 0 0 1 :Request Denied
+0 0 
+
+2 2 
+ Available Matrix 
+2 1 
+1 1 
+0 1 0 
+2 0 2 0 2 
+
+-----need Matrix----
+
+-----allocation Matrix----
+2 1 
+1 1 1 
+2 2 2 
+1 1 0 3 
+6 1 2 
+7 0 
+ 2 customer request arrived 0 2 
+0 
+
+-----max Matrix----
+0 8 0 1 
+1 3 0 
+1 1 1 
+2 0 
+0 0 
+0 0 0 1 
+
+0 
+-----need Matrix----
+
+1 1 1 
+2 
+-----need Matrix----
+
+ Available Matrix 
+2 2 
+1 0 3 
+6 1 2 
+7 0 
+ 0 customer request arrived 7 2 
+
+-----max Matrix----
+8 1 3 
+1 1 1 1 2 
+1 0 3 
+7 1 3 
+7 0 3 
+7 1 3 
+7 0 1 1 1 
+ 0 customer request arrived 1 1 2 
+
+2 
+1 0 3 
+6 1 2 
+7 0 2 
+-----allocation Matrix----
+
+7 0 2 
+1 1 0 
+0 0 0 
+1 
+-----max Matrix----
+1 8 
+ 2 customer request arrived 0 1 3 
+1 1 2 
+1 0 3 
+7 1 1 3 2 0 
+ creating 1
+1 0 3 
+6 1 2 0 0 
+
+ Available Matrix 
+1 
+
+1 1 
+
+-----allocation Matrix----
+7 7 0 0 2 2 
+
+ Customer 1 0 0 
+0 0 :Request Denied
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 2 0 
+ creating 2
+3 1 
+7 1 1 0 
+
+3 0 
+2 0 7 1 0 0 
+1 0 0 0 3 1 0 
+
+
+0 0 6 0 1 
+ Available Matrix 
+0 0 
+0 
+
+-----need Matrix----
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+2 1 1 1 1 1 1 
+ Available Matrix 
+
+
+2 
+1 2 
+ Customer 0 0 0 0 :Request Denied
+7 1 2 0 
+1 2 
+
+
+-----allocation Matrix----
+1 
+ Customer 0 0 0 0 :Request Denied
+7 0 0 3 
+ 2 customer request arrived 2 
+ 2 customer request arrived 
+ 0 customer request arrived 
+1 0 
+7 0 6 0 0 0 1 2 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 
+1 2 1 
+0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 0 2 
+
+ 3 customer request arrived 
+1 7 
+ Available Matrix 
+
+ 0 customer request arrived 0 2 
+
+-----max Matrix----
+1 1 0 
+ 4 customer request arrived 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 0 8 1 
+0 1 2 0 3 
+
+0 
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+1 
+1 7 0 0 
+
+0 2 1 
+1 0 0 1 0 2 0 
+0 
+
+0 1 0 0 
+
+ Available Matrix 
+
+1 
+0 1 0 0 1 0 1 
+ Available Matrix 
+
+1 0 1 
+-----need Matrix----
+3 1 
+0 1 0 
+7 
+1 
+ Available Matrix 
+
+ 3 customer request arrived 
+1 0 1 0 1 0 0 0 0 
+1 0 1 
+0 0 7 
+-----allocation Matrix----
+0 0 
+1 0 1 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 3 
+2 
+1 0 3 
+7 1 0 3 0 
+
+0 7 7 7 0 2 0 
+
+2 
+1 
+-----allocation Matrix----
+1 1 7 
+ Customer 4 0 0 2 
+1 0 1 0 0 0 
+:Request Denied
+0 
+ creating 30 0 
+1 0 1 
+0 0 0 
+
+
+-----need Matrix----
+1 1 1 0 
+0 0 0 0 
+2 
+0 2 1 
+-----need Matrix----
+2 0 
+1 1 
+0 0 3 0 
+0 6 
+1 2 
+-----need Matrix----
+
+1 7 1 1 
+1 
+0 1 0 2 0 0 2 
+ creating 42 1 2 
+
+-----max Matrix----
+1 8 
+
+1 1 3 0 
+1 1 1 
+
+0 0 
+ creating 0
+ Available Matrix 
+1 1 1 3 
+1 
+-----allocation Matrix----
+
+7 2 0 2 2 2 
+
+1 6 1 2 
+7 0 
+2 1 0 0 0 
+
+0 
+-----max Matrix----
+
+1 8 2 1 0 
+ creating 1
+7 0 3 
+0 
+1 0 1 2 
+1 0 3 
+7 
+0 1 
+0 1 3 0 1 1 
+0 0 0 
+
+-----need Matrix----
+
+-----need Matrix----
+1 3 
+-----need Matrix----
+
+ creating 21 
+1 1 7 
+1 0 2 2 
+
+2 6 2 1 
+2 
+ Customer 3 
+2 0 7 0 0 
+2 0 
+:Request Denied
+
+ Customer 3 
+ creating 31 0 0 1 0 
+:Request Denied
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+1 
+ creating 40 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 
+ 3 customer request arrived 1 0 0 1 0 
+3 0 
+
+1 2 1 2 2 2 
+ Available Matrix 
+
+
+1 1 0 
+ creating 00 3 3 1 
+2 1 6 
+1 
+-----max Matrix----
+1 2 8 
+-----max Matrix----
+1 3 
+1 1 2 
+
+8 
+-----allocation Matrix----
+1 7 3 0 
+
+ creating 12 
+
+1 7 1 0 0 
+2 0 
+0 
+-----max Matrix----
+0 8 
+1 1 3 
+0 1 1 
+1 0 2 
+1 0 0 3 0 
+7 
+1 
+-----need Matrix----
+3 1 
+7 0 1 2 
+1 
+2 2 2 
+ Customer 2 
+0 1 0 0 3 0 
+:Request Denied
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 3 0 0 
+ creating 2
+ 1 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 0 1 :Request Denied
+1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 1 0 1 
+2 
+0 1 0 0 0 3 
+7 
+1 1 3 0 
+1 7 
+0 2 
+0 
+ Customer 0 0 0 0 
+0 
+-----need Matrix----
+
+ creating 31 0 1 :Request Denied
+1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 1 0 0 0 :Request Denied
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+ creating 4
+ 3 customer request arrived 0 0 2 0 
+
+
+ Available Matrix 
+1 
+ Customer 1 1 0 1 0 
+
+-----allocation Matrix----
+
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 0 
+-----need Matrix----
+:Request Denied
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 
+ creating 0
+0 0 0 
+
+-----need Matrix----
+1 1 1 1 
+2 2 2 
+1 0 
+0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+ creating 1
+7 1 1 1 3 2 
+
+1 7 3 0 
+2 6 1 
+2 
+7 0 2 
+
+-----max Matrix----
+0 8 3 1 
+7 3 
+ creating 2
+
+ Customer 4 1 0 1 0 0 2 :Request Denied
+
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 0 0 0 0 :Request Denied
+1 7 3 0 
+7 0 2 2 
+
+0 
+ Customer 3 
+ 0 customer request arrived 0 3 0 
+0 0 
+ creating 31 :Request Denied
+0 1 0 0 
+
+0 0 1 
+ Available Matrix 
+7 
+0 1 0 1 0 0 1 
+1 1 1 
+
+
+-----allocation Matrix----
+3 7 3 
+7 1 3 
+7 0 2 0 
+
+ Customer 2 0 0 
+0 0 0 :Request Denied
+:Request Denied
+7 7 0 1 
+0 0 0 
+
+-----need Matrix----
+0 2 
+
+ Customer 0 0 1 0 2 
+ 3 customer request arrived 1 1 
+2 2 2 
+1 0 0 0 3 0 :Request Denied
+0 :Request Denied
+0 
+
+7 0 2 
+ Available Matrix 
+
+1 1 
+ Customer 0 1 0 
+
+0 
+-----allocation Matrix----
+0 7 :Request Denied
+
+ Customer 2 
+ 1 customer request arrived 0 0 0 0 0 0 
+:Request Denied
+
+
+ Available Matrix 
+1 1 
+-----need Matrix----
+0 0 1 0 1 0 1 
+1 
+0 2 2 1 2 
+
+1 0 0 0 3 0 
+6 
+1 
+-----need Matrix----
+2 
+7 1 0 2 1 
+1 
+2 
+-----max Matrix----
+2 2 8 
+1 1 3 0 
+3 1 
+1 6 2 
+2 1 1 
+0 0 
+1 3 0 2 1 
+3 
+7 0 
+0 0 7 
+1 2 7 
+0 
+-----max Matrix----
+0 1 8 
+2 1 
+-----allocation Matrix----
+2 
+3 
+7 
+ Customer 4 1 0 1 0 2 0 
+:Request Denied
+0 1 
+2 3 
+
+1 
+ Customer 3 1 
+ 4 customer request arrived 1 0 0 0 1 3 
+2 3 
+2 7 7 2 1 
+
+1 6 0 0 2 0 3 3 0 
+6 :Request Denied
+
+
+1 7 0 
+ Customer 4 0 0 0 1 1 :Request Denied
+2 2 2 1 
+
+7 
+
+0 7 2 0 1 0 2 
+
+-----max Matrix----
+8 1 
+0 
+-----max Matrix----
+1 8 3 
+-----allocation Matrix----
+
+1 
+7 3 0 7 
+0 1 1 2 
+2 0 1 2 
+1 2 1 
+1 1 0 
+0 0 0 1 2 0 3 
+6 1 2 
+7 
+2 0 
+ Available Matrix 
+1 1 1 
+
+2 1 1 
+0 
+-----max Matrix----
+3 
+8 1 3 
+1 1 
+1 
+
+0 1 2 
+-----allocation Matrix----
+
+1 1 0 0 3 3 1 0 
+0 1 
+
+0 0 
+0 0 
+
+-----need Matrix----
+1 1 1 
+2 0 7 3 0 
+1 0 1 
+0 0 0 3 
+
+7 6 1 7 
+1 2 
+7 0 2 
+
+-----max Matrix----
+8 3 1 
+
+0 7 0 0 
+0 0 2 
+
+ Available Matrix 
+1 1 0 1 1 1 
+-----need Matrix----
+
+1 1 1 1 
+2 2 2 
+1 0 3 3 
+
+
+-----need Matrix----
+6 
+ Customer 3 2 1 1 2 0 2 2 0 
+
+0 2 7 2 0 
+1 7 0 :Request Denied
+
+0 3 1 0 
+0 2 3 6 
+
+1 2 2 0 6 
+0 
+-----max Matrix----
+0 2 8 
+
+ 0 customer request arrived 0 
+
+ Customer 3 0 0 0 
+-----need Matrix----
+1 0 
+
+1 0 
+0 0 0 
+1 0 0 7 1 0 1 0 
+ 1 customer request arrived 0 0 0 
+3 
+3 
+
+ Available Matrix 
+0 
+7 1 0 1 1 2 1 1 2 
+
+
+
+-----allocation Matrix----
+7 7 0 0 2 2 
+
+
+1 1 0 
+0 0 
+-----max Matrix----
+
+ Customer 3 0 0 0 1 0 
+1 8 0 0 1 1 3 
+0 
+1 0 :Request Denied
+1 1 2 2 1 
+ 2 customer request arrived 0 0 0 
+
+
+1 
+ Available Matrix 
+1 0 :Request Denied
+2 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 
+0 1 0 
+0 1 2 0 0 0 
+-----need Matrix----
+0 
+1 
+
+1 0 0 0 1 3 0 
+0 0 1 0 
+1 1 
+2 2 2 
+1 0 0 3 
+-----need Matrix----
+
+1 
+6 1 1 1 
+ 3 customer request arrived 0 0 0 
+
+1 2 
+
+ Available Matrix 
+1 
+
+-----max Matrix----
+1 
+ Customer 0 0 0 8 0 2 :Request Denied
+1 
+ 4 customer request arrived 0 0 0 3 
+
+1 2 1 2 
+ 1 customer request arrived 0 0 
+1 3 0 2 
+1 
+ Available Matrix 
+1 1 1 
+
+
+-----allocation Matrix----
+7 0 2 
+1 1 
+7 0 1 0 0 
+ 4 customer request arrived 0 0 0 
+3 
+ Available Matrix 
+1 
+1 0 0 1 3 1 0 
+
+
+-----allocation Matrix----
+7 2 
+7 
+2 
+0 2 
+ Customer 1 1 2 3 
+
+ 3 customer request arrived 0 0 0 
+
+1 0 7 
+ Available Matrix 
+6 0 1 0 1 0 :Request Denied
+7 3 1 
+ 0 customer request arrived 
+ 2 customer request arrived 0 0 0 2 
+0 0 
+0 1 
+
+-----max Matrix----
+
+6 8 1 
+ Available Matrix 
+1 2 1 1 3 1 
+
+1 7 7 
+0 1 
+2 
+-----allocation Matrix----
+7 
+-----allocation Matrix----
+7 2 7 0 3 0 2 2 0 
+
+1 2 7 1 0 0 0 2 
+
+-----max Matrix----
+8 1 3 2 
+ 1 customer request arrived 0 0 0 
+0 
+
+ Customer 1 2 
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 0 0 2 0 
+
+:Request Denied
+1 1 1 0 
+0 0 0 1 
+1 2 0 
+1 1 0 
+3 0 
+1 
+0 1 0 1 2 7 0 1 
+3 3 
+1 
+
+1 
+-----need Matrix----
+0 
+2 0 
+1 1 
+0 1 3 1 
+7 
+7 0 1 
+-----max Matrix----
+7 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+8 0 1 2 3 
+1 1 
+
+1 1 0 
+1 
+0 
+0 2 2 1 0 2 7 
+
+0 1 1 2 7 
+0 3 
+6 1 2 
+7 0 2 0 
+
+ Available Matrix 
+
+-----max Matrix----
+3 1 
+
+8 1 
+ Customer 2 0 0 1 2 3 
+-----need Matrix----
+
+
+1 1 1 
+ Customer 4 
+ Customer 2 2 0 
+ 4 customer request arrived 0 0 0 0 0 :Request Denied
+0 7 0 0 :Request Denied
+1 
+3 0 1 2 
+ 2 customer request arrived 0 0 0 0 
+
+ Available Matrix 
+1 
+1 
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 1 3 
+6 1 2 
+7 
+2 0 2 2 
+1 0 3 
+6 1 2 2 
+7 0 2 
+
+-----max Matrix----
+8 1 
+3 
+-----max Matrix----
+
+1 1 2 
+1 0 3 
+8 7 1 3 
+1 1 2 
+1 0 3 
+7 1 1 3 
+7 0 2 
+3 
+7 0 
+ Customer 2 2 
+
+ Customer 1 0 0 0 0 :Request Denied
+0 0 :Request Denied
+
+ creating 4
+
+ Customer 3 0 0 0 :Request Denied
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+1 0 
+ 2 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 1 0 
+0 0 0 
+
+-----need Matrix----
+0 1 
+1 
+-----need Matrix----
+1 1 
+1 2 1 2 
+2 2 2 2 
+
+1 1 0 0 3 3 
+
+6 6 1 1 2 2 
+
+7 7 0 0 2 2 
+
+
+-----max Matrix----
+
+-----max Matrix----
+8 1 8 3 
+1 1 3 1 
+1 2 1 
+2 1 
+0 1 3 
+0 7 3 
+1 7 3 
+ 1 customer request arrived 0 0 
+0 7 
+0 2 
+
+ Available Matrix 
+1 
+ Customer 1 0 0 
+ 2 customer request arrived 0 0 0 :Request Denied
+
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+
+7 0 2 
+
+ Customer 0 0 0 0 :Request Denied
+2 2 2 0 
+
+6 1 
+ Available Matrix 
+2 
+1 7 1 1 0 
+2 
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+
+ 3 customer request arrived 0 0 0 
+
+ Available Matrix 
+
+1 1 1 0 
+ 4 customer request arrived 0 0 0 
+3 
+ Available Matrix 
+
+1 
+1 1 1 7 6 
+0 1 
+-----allocation Matrix----
+2 
+1 7 
+0 7 2 
+0 2 
+
+-----max Matrix----
+8 
+1 1 3 0 0 
+ 0 customer request arrived 0 0 0 
+0 
+1 0 1 
+0 
+ 1 customer request arrived 0 0 2 0 
+-----need Matrix----
+
+ Available Matrix 
+
+
+1 
+ Available Matrix 
+1 1 
+1 1 
+-----max Matrix----
+1 8 1 1 1 
+
+3 2 
+1 2 1 2 2 
+1 3 
+0 3 
+
+
+6 7 
+-----allocation Matrix----
+1 1 7 2 0 0 
+3 7 2 3 0 
+1 2 
+2 
+
+
+-----max Matrix----
+1 
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 8 0 1 0 1 3 2 
+
+0 0 
+
+7 
+ 2 customer request arrived 0 1 
+0 0 1 0 0 2 
+
+
+1 
+-----max Matrix----
+2 
+ 4 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 
+0 1 
+ 0 customer request arrived 0 0 0 
+1 0 
+
+ Available Matrix 
+3 1 0 1 0 1 0 
+
+
+-----need Matrix----
+
+-----allocation Matrix----
+1 3 
+-----allocation Matrix----
+1 0 
+1 7 
+2 7 
+2 2 
+1 0 3 
+6 0 1 
+1 2 2 7 
+1 3 7 
+0 
+0 0 2 1 0 
+
+ Available Matrix 
+7 
+-----allocation Matrix----
+0 7 2 
+ Available Matrix 
+0 0 
+2 
+-----need Matrix----
+
+1 1 
+1 1 
+0 
+1 0 1 
+ Customer 2 0 
+-----allocation Matrix----
+0 0 
+0 0 
+0 1 0 2 0 :Request Denied
+2 1 2 
+0 0 
+1 0 1 
+7 
+
+2 0 2 
+1 1 0 
+0 0 0 
+-----max Matrix----
+
+8 1 
+0 1 1 
+ Customer 3 
+0 0 0 0 0 2 0 :Request Denied
+2 
+2 
+
+-----need Matrix----
+3 1 1 
+1 1 1 1 
+1 3 2 
+7 2 0 2 2 1 
+2 2 0 2 3 3 
+
+6 1 1 
+2 1 0 
+3 
+7 6 0 2 
+
+-----max Matrix----
+8 1 3 0 0 
+
+1 
+6 1 1 2 
+7 0 2 0 1 
+
+-----max Matrix----
+2 3 0 8 
+7 1 1 3 3 
+
+
+
+1 1 1 1 0 
+0 0 1 7 0 0 0 3 
+7 2 1 1 
+1 3 2 8 1 3 
+1 1 
+0 2 3 
+
+7 
+0 1 
+ Customer 1 2 0 
+0 3 
+7 0 1 0 7 :Request Denied
+3 1 
+7 3 0 
+ Customer 0 2 0 
+0 0 :Request Denied
+
+ Customer 1 0 0 0 :Request Denied
+
+7 0 2 0 2 
+
+ Customer 0 0 0 
+0 :Request Denied
+
+ Customer 4 0 0 0 :Request Denied
+
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 3 0 0 0 :Request Denied
+3 
+7 1 3 
+7 0 2 
+
+ Customer 1 0 0 0 :Request Denied
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+0 :Request Denied
+
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 3 0 0 0 :Request Denied
+1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 3 0 0 0 :Request Denied
+
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 0 0 0 0 :Request Denied
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 0 0 0 0 :Request Denied
+1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 1 0 0 0 :Request Denied
+0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 0 0 0 0 :Request Denied
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 0 0 0 0 :Request Denied
+0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 3 0 0 0 :Request Denied
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 3 0 0 0 :Request Denied
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 0 0 0 0 :Request Denied
+1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 1 0 0 0 :Request Denied
+
+ 3 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 3 0 0 0 :Request Denied
+
+ creating 0
+ 4 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+
+ creating 1
+ 0 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 0 0 0 
+ creating 20 :Request Denied
+
+ 1 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 1 0 0 0 :Request Denied
+
+ creating 3
+ 2 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 
+ creating 40 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 
+ 3 customer request arrived 2 0 0 2 0 
+
+1 0 3 
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+
+1 1 0 
+0 0 0 
+1 
+ creating 0
+ 4 customer request arrived 0 1 
+0 0 0 
+
+-----need Matrix----
+6 1 1 2 1 
+7 1 0 
+2 2 
+
+-----max Matrix----
+2 8 1 2 3 
+
+1 1 1 2 0 
+1 3 0 
+6 3 1 
+2 7 
+7 1 0 3 2 
+7 
+0 
+-----max Matrix----
+2 8 
+1 3 
+1 
+ Customer 2 1 0 0 2 0 
+:Request Denied
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 3 0 0 0 :Request Denied
+
+ creating 10 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 
+ 0 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+
+ creating 27 0 2 
+1 1 0 
+0 0 0 
+1 0 0 3 1 
+
+6 0 1 2 0 
+0 
+7 
+-----need Matrix----
+
+ creating 30 
+ 1 customer request arrived 2 0 1 0 0 1 
+
+1 
+2 
+-----max Matrix----
+
+ Available Matrix 
+8 1 1 3 
+1 1 1 1 
+2 
+-----allocation Matrix----
+
+7 1 0 0 2 
+3 2 
+2 7 
+1 
+ 3 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+1 7 3 
+7 0 2 
+
+ Customer 4 0 0 1 1 0 0 0 :Request Denied
+3 
+ creating 4
+6 1 0 2 
+1 1 0 
+0 0 0 
+
+0 2 0 0 
+
+1 7 0 0 1 2 
+
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 0 
+0 7 0 2 
+
+ Customer 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+ creating 00 0 0 :Request Denied
+
+ 4 customer request arrived 0 0 
+0 1 
+0 3 
+
+ Available Matrix 
+6 1 1 2 
+1 7 1 
+0 
+-----allocation Matrix----
+2 7 
+0 
+-----max Matrix----
+2 8 1 
+3 1 
+1 1 0 
+1 0 2 
+1 0 0 3 0 
+7 
+1 1 3 
+7 0 0 2 1 
+
+0 0 0 
+
+-----need Matrix----
+
+ Customer 1 1 1 0 1 0 
+2 0 2 :Request Denied
+2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+
+ creating 11 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+
+ 0 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 
+ creating 2
+ 1 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 0 1 1 
+
+0 
+-----allocation Matrix----
+0 7 0 0 
+2 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+1 1 0 
+0 0 0 
+1 8 0 1 1 
+3 
+1 0 0 
+ creating 31 2 
+1 0 3 
+ 2 customer request arrived 0 
+0 
+0 7 0 1 3 
+
+7 0 
+ Available Matrix 
+2 1 
+1 1 
+
+-----allocation Matrix----
+
+ Customer 0 7 0 
+ creating 40 0 2 
+0 1 :Request Denied
+1 0 
+-----need Matrix----
+
+1 1 1 
+2 2 2 
+1 0 0 0 3 0 
+
+1 6 0 1 2 1 
+
+0 7 0 0 0 2 
+
+
+-----max Matrix----
+
+-----need Matrix----
+8 1 1 1 3 
+1 1 2 
+1 
+ creating 01 
+2 2 2 
+1 0 3 0 3 
+7 1 3 
+7 0 2 
+
+6 1 2 
+7 
+ Customer 1 0 0 0 :Request Denied
+0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+
+ creating 11 
+ 0 customer request arrived 0 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 0 0 0 0 :Request Denied
+
+ creating 2
+ 1 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 1 0 0 0 :Request Denied
+
+ creating 3
+ 2 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+
+ creating 4
+ 3 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 3 0 0 0 :Request Denied
+
+ creating 0
+ creating 1
+ 0 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 0 0 0 0 :Request Denied
+
+ creating 2
+ creating 3
+ 2 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+
+ 3 customer request arrived 0 0 0 
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 
+ creating 42 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+
+ creating 0
+ 4 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+
+ creating 1
+ 0 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 0 0 0 0 :Request Denied
+
+ creating 2
+ creating 3
+ 2 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+
+ creating 4
+ creating 0
+ 4 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+
+ creating 1
+ creating 2
+ 1 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 1 0 0 0 :Request Denied
+
+ creating 3
+ creating 4
+ 3 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 3 0 0 0 :Request Denied
+
+ creating 0
+ creating 1
+ 0 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 0 0 0 0 :Request Denied
+
+ creating 2
+ creating 3
+ 2 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+
+ creating 4
+ creating 0
+ 4 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+
+ creating 1
+ 0 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 0 0 0 0 :Request Denied
+
+ creating 2
+ 1 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 1 0 0 0 :Request Denied
+
+ creating 31 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 3 0 0 0 :Request Denied
+
+ creating 4
+ 3 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 
+ Available Matrix 
+0 1 3 1 
+6 1 1 2 
+ 2 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+
+-----allocation Matrix----
+
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 
+ 4 customer request arrived 
+ creating 0
+-----allocation Matrix----
+0 7 
+ 1 customer request arrived 0 0 2 0 
+0 1 
+ 3 customer request arrived 0 0 0 
+1 0 
+ Available Matrix 
+
+ 4 customer request arrived 0 0 1 1 1 
+
+-----allocation Matrix----
+7 0 
+2 
+1 1 0 
+0 0 0 
+
+0 
+ creating 10 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 3 0 0 0 :Request Denied
+
+ creating 27 
+ 1 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 1 0 0 0 0 :Request Denied
+2 
+1 1 0 
+0 0 
+ creating 30 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 
+ 0 customer request arrived 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+
+ creating 41 
+ 3 customer request arrived 1 0 0 
+0 
+2 2 
+ Available Matrix 
+1 2 1 
+1 
+1 
+-----allocation Matrix----
+0 1 7 2 
+ Available Matrix 
+1 1 1 0 1 
+2 0 
+0 1 1 
+
+-----allocation Matrix----
+1 0 0 0 0 
+0 0 
+7 0 
+-----need Matrix----
+0 
+1 
+1 1 
+ Available Matrix 
+1 0 0 
+2 2 2 
+2 1 
+1 0 1 
+0 3 0 1 0 0 
+0 3 
+
+1 6 0 1 1 
+0 1 
+1 1 1 0 
+
+-----allocation Matrix----
+3 7 
+0 0 2 2 
+
+0 0 7 
+0 
+-----need Matrix----
+0 7 1 
+1 1 3 
+7 0 2 1 
+1 1 
+ Customer 3 
+0 2 0 2 0 0 2 
+
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 3 0 0 0 :Request Denied
+2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ creating 0
+ Customer 2 0 0 0 :Request Denied
+0 :Request Denied
+0 
+6 0 1 2 0 
+7 
+0 1 2 0 
+1 
+-----max Matrix----
+
+8 0 1 0 3 
+0 1 
+1 
+-----need Matrix----
+2 1 
+1 1 1 
+0 2 3 2 
+2 7 
+1 1 3 0 
+3 7 
+0 2 
+-----need Matrix----
+
+1 1 1 
+ Customer 3 
+0 2 0 2 0 2 
+:Request Denied
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 
+ 0 customer request arrived 
+ creating 10 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+2 
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ creating 2
+ 1 customer request arrived 0 0 0 
+
+ creating 3
+ 2 customer request arrived 0 0 0 
+
+ creating 4
+ 3 customer request arrived 0 0 0 
+
+ creating 0
+ 4 customer request arrived 0 0 0 
+
+ creating 1
+ 0 customer request arrived 0 0 0 
+
+ creating 2
+ 1 customer request arrived 0 0 0 
+
+ creating 3
+ 2 customer request arrived 0 0 0 
+
+ creating 4
+ 3 customer request arrived 0 0 0 
+
+ creating 0
+ 4 customer request arrived 0 0 0 
+
+ creating 1
+ creating 2
+ creating 3
+ 0 customer request arrived 0 0 0 
+
+ creating 4
+ 3 customer request arrived 0 0 0 
+
+ creating 0
+ creating 1
+ 1 customer request arrived 0 0 0 
+
+ creating 2
+ 1 customer request arrived 0 0 0 
+
+ creating 3
+ 2 customer request arrived 0 0 0 
+
+ creating 4
+ 2 customer request arrived 0 0 0 
+
+ 4 customer request arrived 0 0 0 
+
+ 2 customer request arrived 0 0 0 
+
+ creating 0
+ 4 customer request arrived 0 0 0 
+
+ 1 customer request arrived 0 0 0 
+
+ 3 customer request arrived 0 0 0 
+
+ 0 customer request arrived 0 0 0 
+
+ creating 1
+ 2 customer request arrived 0 0 0 
+
+ 0 customer request arrived 0 0 0 
+
+ 4 customer request arrived 0 0 0 
+
+ 1 customer request arrived 0 0 0 
+
+ 3 customer request arrived 0 0 0 
+
+ creating 2
+ 2 customer request arrived 0 0 0 
+
+ 1 customer request arrived 0 0 0 
+
+ 0 customer request arrived 0 0 0 
+
+ 4 customer request arrived 0 0 0 
+
+ creating 3
+ 2 customer request arrived 0 0 0 
+
+ creating 4
+ 3 customer request arrived 0 0 0 
+
+ creating 0
+ 4 customer request arrived 0 0 0 
+
+ creating 1
+ 0 customer request arrived 0 0 0 
+
+ creating 2
+ 1 customer request arrived 0 0 0 
+
+ creating 3
+ 2 customer request arrived 0 0 0 
+
+ creating 4
+ 3 customer request arrived 0 0 0 
+
+ creating 0
+ 4 customer request arrived 0 0 0 
+
+ creating 1
+ 0 customer request arrived 0 0 0 
+
+ creating 2
+ 1 customer request arrived 0 0 0 
+
+ creating 3
+ 2 customer request arrived 0 0 0 
+
+ creating 4
+ 3 customer request arrived 0 0 0 
+
+ creating 0
+ 4 customer request arrived 0 0 0 
+ creating 1
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+
+ creating 2
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 
+ creating 32 
+
+ Customer 1 0 0 0 :Request Denied
+
+ creating 4
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 
+ creating 00 :Request Denied
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 3 0 0 0 :Request Denied
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+
+ creating 11 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 0 0 0 0 :Request Denied
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 1 0 0 0 :Request Denied
+
+ creating 2
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+
+ creating 3
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 
+ creating 43 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 3 0 0 0 :Request Denied
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 
+ creating 00 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+
+ 0 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 0 0 0 0 :Request Denied
+
+ Customer 0 0 0 0 :Request Denied
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 0 0 0 0 :Request Denied
+
+ Customer 1 0 0 0 :Request Denied
+0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+
+ creating 1
+ 1 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 1 0 0 0 :Request Denied
+
+ creating 2
+ 1 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 1 0 0 0 :Request Denied
+
+ creating 3
+ 2 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+
+ creating 4
+ 3 customer request arrived 0 0 0 
+
+ Available Matrix 
+
+ creating 01 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+ 4 customer request arrived 
+0 0 0 0 
+1 0 0 1 
+0 0 0 0 
+
+
+-----need Matrix----
+1 1 1 
+ Available Matrix 
+1 
+1 2 1 2 
+2 
+1 
+-----allocation Matrix----
+0 7 3 0 
+2 6 
+1 1 1 2 
+7 0 
+0 0 0 
+1 0 1 
+ creating 1
+0 0 2 
+
+-----max Matrix----
+0 8 0 
+1 
+-----need Matrix----
+3 1 1 1 
+2 2 2 
+1 0 3 
+6 1 
+2 1 
+7 1 0 2 2 
+
+
+-----max Matrix----
+1 8 0 1 3 3 
+ creating 2
+
+ 1 customer request arrived 0 1 1 0 2 
+0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+1 0 3 
+7 1 3 
+7 0 2 
+0 
+ Customer 4 0 0 0 0 0 
+:Request Denied
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+ creating 3
+ 2 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+
+ creating 4
+ creating 0
+ 4 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 
+ creating 12 
+
+ Customer 4 0 0 0 :Request Denied
+
+ 0 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 
+ creating 22 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 0 0 
+ 3 customer request arrived 
+ 1 customer request arrived 0 0 0 
+0 0 0 
+ Available Matrix 
+
+1 1 1 
+
+-----allocation Matrix----
+
+ 0 customer request arrived 7 0 2 
+1 1 0 
+0 0 0 
+ Available Matrix 
+
+1 1 1 0 1 
+1 
+-----allocation Matrix----
+
+7 0 0 2 
+0 1 0 
+1 
+-----need Matrix----
+0 1 
+0 1 0 1 0 
+
+2 1 2 0 1 2 
+
+1 0 0 0 3 
+0 6 
+1 
+-----need Matrix----
+2 1 
+1 1 7 
+0 2 2 
+2 
+-----max Matrix----
+2 8 
+1 1 3 0 
+3 
+1 6 1 1 2 2 
+
+1 7 0 0 3 2 
+
+
+-----max Matrix----
+7 8 1 1 3 3 
+
+1 7 1 0 2 2 
+
+1 0 3 
+ 3 customer request arrived 
+7 0 1 3 0 
+0 7 
+
+ Customer 1 
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+0 0 7 0 0 :Request Denied
+2 0 
+2 1 
+1 0 
+0 
+ Customer 3 0 0 0 0 
+0 1 :Request Denied
+0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 
+2 2 7 
+0 1 2 0 
+3 
+6 
+-----max Matrix----
+1 8 2 1 
+3 7 
+0 1 2 
+1 
+-----max Matrix----
+2 
+8 1 1 3 0 
+3 
+7 1 1 3 1 
+2 
+1 7 0 3 0 
+2 
+7 1 3 
+ Customer 1 
+0 7 0 0 0 2 
+:Request Denied
+
+ Customer 3 0 0 0 :Request Denied
+0 0 :Request Denied
+0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 0 0 0 0 :Request Denied
+
+7 1 3 
+7 0 2 
+
+ Customer 3 0 0 0 :Request Denied
+
+ creating 3
+ 2 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 0 0 0 0 :Request Denied
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 1 0 0 0 :Request Denied
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 1 0 0 0 :Request Denied
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 1 0 0 0 :Request Denied
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 3 0 0 0 :Request Denied
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 0 0 0 0 :Request Denied
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+
+ creating 4
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 0 0 0 0 :Request Denied
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 
+ 3 customer request arrived 1 0 
+0 
+ Available Matrix 
+0 0 
+1 
+ Available Matrix 
+0 0 0 
+
+ Available Matrix 
+1 1 1 1 1 1 1 0 1 1 
+
+-----allocation Matrix----
+
+ Available Matrix 
+1 
+
+-----allocation Matrix----
+7 7 0 1 
+0 2 0 
+0 1 
+ Available Matrix 
+1 1 1 1 1 0 
+1 
+
+0 0 0 
+1 0 1 
+
+ Available Matrix 
+0 1 0 1 0 1 
+
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 
+-----need Matrix----
+0 1 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 1 0 1 3 
+
+2 6 2 1 2 2 
+
+7 1 0 0 2 3 
+
+6 
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 1 
+2 7 
+1 7 3 0 
+7 2 0 2 
+
+
+-----max Matrix----
+8 1 
+ Customer 0 3 0 
+0 1 0 :Request Denied
+1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 1 0 0 0 :Request Denied
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+
+ Available Matrix 
+1 1 
+1 
+-----allocation Matrix----
+1 7 
+
+-----allocation Matrix----
+0 7 0 2 2 
+1 
+1 1 0 
+0 1 0 0 0 
+0 
+0 1 0 0 1 
+
+1 0 0 0 0 1 
+
+0 
+-----need Matrix----
+0 1 0 1 
+1 
+
+-----need Matrix----
+2 1 1 2 1 
+2 2 2 
+1 2 0 
+3 
+6 1 
+ Available Matrix 
+2 1 
+1 7 1 0 
+
+-----allocation Matrix----
+0 7 3 0 
+2 6 
+1 1 1 2 
+7 0 0 
+0 2 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 
+ Available Matrix 
+1 1 1 1 1 
+
+2 
+-----allocation Matrix----
+2 7 0 2 
+2 1 
+1 0 1 3 
+6 0 1 2 
+
+0 7 0 0 0 
+2 1 0 
+1 
+
+-----max Matrix----
+0 8 0 1 0 
+
+-----need Matrix----
+
+1 
+-----max Matrix----
+1 8 1 1 
+3 
+2 1 2 1 2 2 
+
+1 1 0 0 3 3 
+7 
+1 6 1 3 2 
+
+7 0 7 2 0 
+2 
+
+-----max Matrix----
+8 1 
+ Customer 2 0 
+ Available Matrix 
+0 0 :Request Denied
+1 1 1 
+
+-----allocation Matrix----
+7 0 1 2 0 
+1 1 0 
+0 0 0 
+1 3 0 
+1 6 
+1 0 2 0 0 
+ Available Matrix 
+
+
+-----need Matrix----
+1 1 1 1 1 
+
+-----allocation Matrix----
+
+ Available Matrix 
+7 1 
+ Available Matrix 
+1 1 
+
+-----allocation Matrix----
+1 7 1 1 0 
+2 
+-----allocation Matrix----
+
+7 1 0 1 2 
+0 1 
+1 0 
+0 0 0 
+1 0 1 
+
+ Available Matrix 
+0 1 0 1 1 0 
+
+-----allocation Matrix----
+
+7 0 
+-----need Matrix----
+2 
+1 1 1 1 1 
+0 
+2 0 2 2 0 
+0 1 
+0 1 3 0 
+6 1 1 
+2 
+0 0 2 0 
+0 1 
+1 0 
+-----need Matrix----
+
+1 0 1 0 1 0 
+
+1 2 0 2 1 2 
+
+1 0 0 0 3 0 
+
+
+-----need Matrix----
+6 1 1 1 2 1 
+
+2 7 2 0 2 2 
+
+1 
+-----max Matrix----
+0 3 8 
+1 6 3 1 2 
+
+7 1 0 1 2 2 
+
+1 
+-----max Matrix----
+0 8 3 1 
+3 
+7 0 1 0 3 0 
+ Available Matrix 
+1 1 1 
+1 
+
+
+-----allocation Matrix----
+2 2 7 2 
+0 2 1 
+1 0 1 3 0 
+6 
+1 0 2 
+0 7 0 0 
+1 2 0 
+1 
+-----max Matrix----
+
+ Available Matrix 
+8 1 1 1 3 1 
+1 
+1 
+-----allocation Matrix----
+2 7 
+1 0 0 3 2 
+7 
+1 1 3 
+1 0 7 
+0 0 2 0 0 
+
+1 0 1 
+
+ Customer 0 0 0 0 0 0 0 :Request Denied
+
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 
+2 0 
+ Available Matrix 
+0 0 1 
+1 7 1 0 2 
+
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 3 0 0 0 :Request Denied
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 1 0 0 0 :Request Denied
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 3 0 0 0 :Request Denied
+3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 0 0 0 0 :Request Denied
+3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 1 0 0 0 :Request Denied
+2 
+
+-----max Matrix----
+8 1 3 
+1 
+1 2 
+1 0 
+-----allocation Matrix----
+
+7 1 0 1 2 2 
+
+1 1 0 1 3 0 
+
+0 7 0 1 0 3 
+
+7 1 0 2 0 
+1 
+0 0 0 
+
+ Customer 4 
+-----need Matrix----
+0 0 1 0 1 :Request Denied
+1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 
+0 2 
+7 
+-----max Matrix----
+0 2 8 
+1 3 
+1 1 
+ Customer 2 2 0 
+-----need Matrix----
+1 1 1 
+2 2 0 0 2 :Request Denied
+
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 3 0 0 0 :Request Denied
+3 
+7 1 3 
+7 0 2 
+
+ Customer 3 0 0 0 :Request Denied
+
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 3 0 0 0 :Request Denied
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 
+ Available Matrix 
+1 2 
+1 1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+0 
+ 4 customer request arrived 0 0 0 
+3 
+ Available Matrix 
+
+1 1 7 1 1 
+
+-----allocation Matrix----
+3 7 0 
+2 
+1 7 1 0 0 2 
+
+0 0 0 
+1 0 1 
+ Customer 1 
+0 0 0 0 0 0 
+:Request Denied
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 1 
+ 2 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+
+ 3 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+ creating 0
+ 4 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 0 :Request Denied
+3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+ 2 customer request arrived 
+0 7 0 
+0 1 
+ 3 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 2 1 
+
+
+-----allocation Matrix----
+1 7 0 0 2 
+3 1 
+7 1 1 0 
+3 0 
+7 0 0 0 2 
+
+1 0 1 1 
+0 3 0 
+7 0 0 
+2 
+
+-----need Matrix----
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 1 2 1 
+1 
+7 2 0 2 2 2 
+ 1 customer request arrived 
+0 1 0 0 0 3 
+
+6 1 
+ Available Matrix 
+2 1 
+7 1 0 2 1 
+
+
+-----allocation Matrix----
+
+-----max Matrix----
+7 8 1 0 3 2 
+
+1 1 1 
+ Customer 3 2 
+ 4 customer request arrived 0 
+0 1 
+ 0 customer request arrived 0 0 3 0 
+0 7 0 1 
+0 
+ Available Matrix 
+1 1 1 
+
+
+-----allocation Matrix----
+
+7 
+-----max Matrix----
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+:Request Denied
+8 7 1 3 0 
+
+ Customer 4 2 3 0 
+7 
+ 0 customer request arrived 0 0 0 0 0 0 :Request Denied
+2 0 
+2 
+1 1 0 
+
+
+0 0 1 
+ Available Matrix 
+
+ 4 customer request arrived 1 0 0 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 0 1 1 
+
+2 2 2 1 
+0 1 1 1 
+
+
+-----allocation Matrix----
+1 7 0 0 1 
+0 0 0 0 3 
+
+6 
+-----need Matrix----
+2 1 
+1 1 1 1 0 
+0 
+0 0 
+1 2 1 2 2 2 0 
+1 
+0 7 3 
+6 0 1 2 2 
+1 
+
+7 
+-----max Matrix----
+0 8 2 1 3 
+
+0 
+-----max Matrix----
+0 8 0 1 
+
+-----need Matrix----
+1 0 1 1 0 1 
+2 
+2 2 
+1 0 
+ Available Matrix 
+3 1 
+1 6 3 2 1 
+ Customer 3 
+1 0 0 3 
+7 1 3 
+7 0 2 
+0 0 
+ Customer 0 :Request Denied
+0 0 2 0 
+
+:Request Denied
+1 7 1 2 
+1 0 3 
+7 1 3 0 
+2 
+
+-----max Matrix----
+7 0 2 
+
+ Customer 2 8 0 1 0 3 0 :Request Denied
+
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 1 
+1 2 
+1 0 3 
+
+ Customer 0 7 0 0 1 0 3 
+7 0 :Request Denied
+2 
+
+ Customer 3 0 0 0 :Request Denied
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 4 0 0 0 :Request Denied
+1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 1 0 0 0 :Request Denied
+
+ creating 1
+ 0 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 0 0 0 0 :Request Denied
+
+ creating 2
+ 1 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 1 0 0 0 :Request Denied
+
+ creating 3
+ 2 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+
+ creating 4
+ 3 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 3 0 0 0 :Request Denied
+
+ creating 0
+ 4 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 
+ creating 13 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 
+ 0 customer request arrived 0 3 0 
+1 0 1 
+2 
+1 0 
+ Available Matrix 
+3 1 
+1 7 1 
+1 
+-----allocation Matrix----
+3 7 
+0 7 2 0 2 
+
+1 1 0 
+ Customer 4 
+0 0 0 0 0 0 :Request Denied
+
+1 
+ creating 20 1 
+0 0 0 
+ 1 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 
+1 
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+0 
+0 0 0 
+1 0 1 
+0 0 0 7 
+0 
+-----need Matrix----
+2 1 
+ creating 31 1 
+2 
+ 2 customer request arrived 
+0 
+-----max Matrix----
+2 8 2 1 
+3 
+0 1 0 1 
+2 1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 
+ creating 41 
+ Available Matrix 
+3 1 
+1 1 
+
+
+-----allocation Matrix----
+1 7 0 0 3 2 
+7 
+1 1 1 1 0 2 
+ creating 0
+ 3 customer request arrived 0 0 
+1 1 3 0 
+
+3 0 7 0 0 0 2 
+
+1 0 1 
+ Customer 0 
+
+ 4 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 0 0 
+
+ Available Matrix 
+0 1 7 
+0 0 :Request Denied
+0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 2 0 0 0 :Request Denied
+
+ creating 1
+ 0 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 0 0 0 0 :Request Denied
+
+ creating 2
+ 1 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 1 0 0 0 :Request Denied
+
+ creating 3
+ 2 customer request arrived 0 0 0 
+
+ Available Matrix 
+1 1 1 
+
+-----allocation Matrix----
+7 0 2 
+1 1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 2 2 
+1 0 3 
+6 
+ creating 41 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 
+ 3 customer request arrived 1 0 2 
+0 1 0 
+0 3 
+
+ Available Matrix 
+7 1 1 3 
+7 1 0 1 2 
+
+
+-----allocation Matrix----
+7 
+ Customer 2 0 0 2 
+0 1 0 :Request Denied
+1 0 
+0 0 0 
+1 0 1 
+0 0 0 
+
+-----need Matrix----
+1 1 1 
+2 
+ All threads finished without any deadlocks! 2 2 
+1 0 3 
+6 1 2 
+7 0 2 
+
+-----max Matrix----
+8 1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 3 0 0 0 :Request Denied
+1 3 
+1 1 2 
+1 0 3 
+7 1 3 
+7 0 2 
+
+ Customer 

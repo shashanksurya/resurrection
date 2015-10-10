@@ -1,0 +1,2 @@
+python3.4 pycluster.py data1.txt 2 kmeans
+python3.4 pycluster.py data2.txt 2 kmeans
