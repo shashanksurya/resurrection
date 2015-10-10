@@ -1,0 +1,70 @@
+
+Problem Statement
+    
+You need to handle two extraordinarily large integers. The good news is that you don't need to perform any arithmetic operation on them. You just need to compare them and see whether they are equal or one is greater than the other.
+Given two strings x and y, return either "x<y", "x>y" or "x=y" depending on the values represented by x and y. x and y each consist of a decimal integer followed zero or more '!' characters. Each '!' represents the factorial operation. For example, "3!!" represents 3!! = 6! = 720.
+Definition
+    
+Class:
+ExtraordinarilyLarge
+Method:
+compare
+Parameters:
+string, string
+Returns:
+string
+Method signature:
+string compare(string x, string y)
+(be sure your method is public)
+Limits
+    
+Time limit (s):
+2.000
+Memory limit (MB):
+64
+Notes
+-
+In case you don't know about factorials, here is a quick definition: 0! is defined as 1. For any positive integer n, n! is defined as n * [(n-1)!]. For example, 5! = 5 * 4 * 3 * 2 * 1 * 0! = 120.
+Constraints
+-
+x and y will each contain between 1 and 50 characters, inclusive.
+-
+x and y will each consist of a non-negative integer less than 109, with no extra leading zeros, followed by zero or more '!' characters.
+Examples
+0)
+
+    
+"0!"
+"1"
+Returns: "x=y"
+
+1)
+
+    
+"9!"
+"999999999"
+Returns: "x<y"
+
+2)
+
+    
+"9!!"
+"999999999"
+Returns: "x>y"
+
+3)
+
+    
+"456!!!"
+"123!!!!!!"
+Returns: "x<y"
+
+4)
+
+    
+"5!"
+"120"
+Returns: "x=y"
+
+ 
+This problem statement is the exclusive and proprietary property of TopCoder, Inc. Any unauthorized use or reproduction of this information without the prior written consent of TopCoder, Inc. is strictly prohibited. (c)2003, TopCoder, Inc. All rights reserved.
