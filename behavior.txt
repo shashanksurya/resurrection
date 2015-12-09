@@ -1,0 +1,79 @@
+Some basic questions were asked - regarding my interest, visa status, why mathworks, describe about one of your projects , how do you handle multitasks
+
+Current GPA? Visa status? Multitasking example 
+
+First is some background check. your CGPA, your graduate school and your opt start date and whether need sponsor in future. Why application support engineer? How to handle multi tasks? What is your experience of working in a team. No technique questions.
+
+What do you do to work within a team efficiently? 
+-----------------------------------------------------
+communicate with everyone,noting down the points at meetings. 
+periodically ask my team leader about my performance.
+interact more with my team to learn about what they care and what are their strong areas in solving a problem
+
+What do you know about this position?
+------------------------------------------
+
+EDG is fast paced, just like graduate school and its more fun
+The thing i like more about this job is i get half of my time to support customrs on their projects and spend the rest of my time in projects that interest me.
+also as a bonus i get to work with people who are experts in those areas where i can learn from them.
+Masters or PhD in Engineering or Computer Science with 0-3 years of professional work experience
+Expertise with Control Theory / Embedded Systems / Web Development / Signal Processing
+Strong Math skills
+Strong Programming skills in MATLAB / C / C++ / Java / JavaScript
+someone who loves matlab and support 
+
+
+
+ What are your strongest programming languages and your field of interest? What are you looking for in the positions when you are applying for job? Explain one of your projects non technically. Your Visa status. 
+
+What are your experience with the company&#039;s software? 
+----------------------------------------------------------------------------
+helped researchers to work on data using matlab.
+responsiblities involved drawing 2d/3d plots, implementing machine learning algorithms on data collected from research studies
+
+easy and powerful at the same time to work with matlab.
+i would like to see what goes into building such tools.
+
+
+
+
+Why Mathworks?Why do you think you fit to this position?
+--------------------------------------------------------
+
+Strong Math skills for position
+Strong Programming skills in MATLAB / C / C++ / Java / JavaScript
+
+I am good at:
+C/C++/JAva matlab
+
+worked on multiple educational, research and business projects including an android app with 60+ users worldwide.
+
+What makes me different from the typical candidate?
+-----------------------------------------------------
+proven expertise in web dev/embedded systems, strong programming skills in C++ and Java,
+have worked on mathworks products like matlab before
+have good idea about model based design
+
+Model-Based Design (MBD) is a mathematical and visual method of addressing problems associated with designing complex control, signal processing and communication systems. It is used in many motion control, industrial equipment, aerospace, and automotive applications.
+
+
+
+tell me about urself
+--------------------------------------
+programmer with 5 years of expericnce in working with research, educational and business projects.
+worked with tcs before in india
+i have spent my last 2 1/2 years in learning new technologies that equip me in handling real world problems. developed an android app which has a market reach of 60K + users worldwise and that continues to excite me. 
+right now i am looking to apply my technical expertise with my problem solving skills at an innovative company.
+
+whats ur interests in this job?
+---------------------
+
+I am a person who likes to work in a fast paced environment. I like to work on web develpemnt, use my problem solving skills to solve real world problems. 
+
+SituationActionResult
+
+Multitasking:
+
+TCS
+developement and phone calls in assisting troubleshooting
+I used to list all the activities before i start them. I finish all the tasks that can be done without much thinking as that clears off some tasks in my list. Later I work the tasks

@@ -1,0 +1,1503 @@
+
+Iteration Count 0
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+9.918212890625e-05
+7.152557373046875e-05
+5.5789947509765625e-05
+COM_after::{'z': 4.918813365714771, 'x': 1.7420919381904794, 'y': -10.844434369631077}
+VOL_after::3688.5200837140083
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.25M (0.00M, Peak 10.73M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'b2': -11.399999618530273, 'l1': -22.0, 'h1': -0.5, 'l2': 37.65142059326172, 'b1': 11.0, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 1
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+6.818771362304688e-05
+7.152557373046875e-05
+6.914138793945312e-05
+COM_after::{'z': 4.4604948226385925, 'y': -12.269551966590324, 'x': 0.008630101856525274}
+VOL_after::3741.683055514989
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.25M (0.00M, Peak 10.73M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'b1': 11.0, 'h2': 11.010000228881836, 'l1': -22.0, 'l2': 37.65142059326172, 'h1': -0.5, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 2
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+9.1552734375e-05
+1.8596649169921875e-05
+7.295608520507812e-05
+COM_after::{'y': -10.970693219359939, 'x': -0.2110252448542628, 'z': 3.9715490432949734}
+VOL_after::4077.578299684003
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.15M (0.00M, Peak 10.67M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'h1': -0.5, 'l1': -22.0, 'b1': 11.0, 'b2': -11.399999618530273, 'h2': 11.010000228881836, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 3
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+9.918212890625e-05
+5.91278076171875e-05
+9.584426879882812e-05
+COM_after::{'x': -0.22263305762725755, 'z': 4.2870756419450045, 'y': -11.862051133878882}
+VOL_after::3883.424343303776
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.15M (0.00M, Peak 10.67M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'b2': -11.399999618530273, 'h2': 11.010000228881836, 'l1': -22.0, 'h1': -0.5, 'l2': 37.65142059326172, 'b1': 11.0}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 4
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+7.581710815429688e-05
+6.628036499023438e-05
+1.7642974853515625e-05
+COM_after::{'y': -11.959012360824158, 'z': 4.2199312394530315, 'x': 0.9806391019928744}
+VOL_after::3617.256400435558
+2.4318695068359375e-05
+COM_after::{'y': -11.989726506575952, 'z': 4.211017324953146, 'x': 0.967326089827816}
+VOL_after::3618.708691409554
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.15M (0.00M, Peak 10.67M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'l2': 37.65142059326172, 'l1': -22.0, 'b1': 11.0, 'b2': -11.399999618530273, 'h1': -0.5, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 5
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+5.245208740234375e-05
+1.621246337890625e-05
+1.0967254638671875e-05
+COM_after::{'y': -11.976206436877227, 'x': 0.3247066650174529, 'z': 4.4401181071843485}
+VOL_after::3787.4519201171215
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.15M (0.00M, Peak 10.67M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'l1': -22.0, 'b1': 11.0, 'l2': 37.65142059326172, 'h1': -0.5, 'b2': -11.399999618530273, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 6
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+9.202957153320312e-05
+5.7220458984375e-06
+2.47955322265625e-05
+COM_after::{'y': -12.012580748346549, 'x': -1.2733423151639247, 'z': 4.385177761633993}
+VOL_after::3986.874472932682
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.25M (0.00M, Peak 10.73M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'h2': 11.010000228881836, 'h1': -0.5, 'b1': 11.0, 'l1': -22.0, 'l2': 37.65142059326172, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 7
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+8.58306884765625e-06
+6.246566772460938e-05
+3.5762786865234375e-05
+COM_after::{'z': 4.832025916363526, 'y': -11.84401711484068, 'x': -1.0641503733956086}
+VOL_after::3691.039371501964
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.25M (0.00M, Peak 10.73M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'h2': 11.010000228881836, 'l1': -22.0, 'l2': 37.65142059326172, 'b1': 11.0, 'b2': -11.399999618530273, 'h1': -0.5}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 8
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+1.9073486328125e-05
+7.82012939453125e-05
+7.867813110351562e-05
+COM_after::{'x': 1.623578476929808, 'z': 4.679428362479834, 'y': -11.28057968019238}
+VOL_after::3644.25932487485
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.15M (0.00M, Peak 10.67M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'l2': 37.65142059326172, 'h1': -0.5, 'b1': 11.0, 'h2': 11.010000228881836, 'l1': -22.0, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 9
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+9.441375732421875e-05
+7.772445678710938e-05
+6.723403930664062e-05
+COM_after::{'z': 4.186945838028714, 'x': 1.018997452417059, 'y': -11.842369908768575}
+VOL_after::3787.6378054936285
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.15M (0.00M, Peak 10.67M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'h2': 11.010000228881836, 'l1': -22.0, 'b1': 11.0, 'b2': -11.399999618530273, 'l2': 37.65142059326172, 'h1': -0.5}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 10
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+8.58306884765625e-06
+6.914138793945312e-05
+9.012222290039062e-05
+COM_after::{'y': -11.241418811672133, 'x': 1.9499434606365733, 'z': 4.50527327413843}
+VOL_after::3730.102716202746
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.15M (0.00M, Peak 10.67M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'l1': -22.0, 'h1': -0.5, 'l2': 37.65142059326172, 'h2': 11.010000228881836, 'b1': 11.0, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 11
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+5.4836273193359375e-05
+4.4345855712890625e-05
+4.0531158447265625e-05
+COM_after::{'z': 4.492827986692197, 'y': -10.356856942931998, 'x': 1.1405019910846252}
+VOL_after::4016.4254531348647
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.25M (0.00M, Peak 10.73M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'b2': -11.399999618530273, 'h2': 11.010000228881836, 'l2': 37.65142059326172, 'b1': 11.0, 'h1': -0.5, 'l1': -22.0}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 12
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+2.7179718017578125e-05
+1.33514404296875e-05
+3.719329833984375e-05
+COM_after::{'x': -0.5469363993151433, 'z': 4.841292351343049, 'y': -11.62926366419537}
+VOL_after::3858.7518707144004
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.25M (0.00M, Peak 10.73M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'l1': -22.0, 'h1': -0.5, 'b2': -11.399999618530273, 'l2': 37.65142059326172, 'b1': 11.0, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 13
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+8.58306884765625e-06
+1.9550323486328125e-05
+3.2901763916015625e-05
+COM_after::{'y': -11.606716945490211, 'z': 4.8137366046238546, 'x': 0.952858390067815}
+VOL_after::3922.23369383269
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.15M (0.00M, Peak 10.67M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'l2': 37.65142059326172, 'b2': -11.399999618530273, 'l1': -22.0, 'h1': -0.5, 'b1': 11.0, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 14
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.337860107421875e-05
+8.726119995117188e-05
+2.5272369384765625e-05
+COM_after::{'x': 0.64306756388914, 'y': -11.444981614314388, 'z': 4.502707048731398}
+VOL_after::3943.115063673812
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.25M (0.00M, Peak 10.73M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'b2': -11.399999618530273, 'l2': 37.65142059326172, 'h2': 11.010000228881836, 'h1': -0.5, 'b1': 11.0, 'l1': -22.0}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 15
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+1.1920928955078125e-05
+2.288818359375e-05
+9.775161743164062e-05
+COM_after::{'z': 4.3726848026164165, 'y': -11.739940657206915, 'x': 0.5238401297616966}
+VOL_after::3628.754246964973
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.25M (0.00M, Peak 10.73M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'b1': 11.0, 'h2': 11.010000228881836, 'l1': -22.0, 'b2': -11.399999618530273, 'l2': 37.65142059326172, 'h1': -0.5}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 16
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+4.3392181396484375e-05
+8.20159912109375e-05
+1.5735626220703125e-05
+COM_after::{'x': 0.14506766066960708, 'z': 4.360808022081552, 'y': -11.393167610066987}
+VOL_after::4045.1711759189766
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.15M (0.00M, Peak 10.67M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'h1': -0.5, 'b2': -11.399999618530273, 'b1': 11.0, 'l1': -22.0, 'h2': 11.010000228881836, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 17
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+8.249282836914062e-05
+3.5762786865234375e-05
+8.440017700195312e-05
+COM_after::{'y': -11.025510813027385, 'x': 0.2072681961348722, 'z': 5.043600173473046}
+VOL_after::4022.001891490022
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.25M (0.00M, Peak 10.73M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'l2': 37.65142059326172, 'h1': -0.5, 'h2': 11.010000228881836, 'b2': -11.399999618530273, 'b1': 11.0, 'l1': -22.0}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 18
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+8.106231689453125e-05
+9.632110595703125e-05
+7.390975952148438e-05
+COM_after::{'x': 0.05386529571041949, 'y': -11.444213090311601, 'z': 4.3209034214439646}
+VOL_after::3960.978132007903
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.25M (0.00M, Peak 10.73M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'b2': -11.399999618530273, 'l1': -22.0, 'l2': 37.65142059326172, 'h2': 11.010000228881836, 'h1': -0.5, 'b1': 11.0}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 19
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+5.245208740234375e-05
+8.20159912109375e-05
+4.100799560546875e-05
+COM_after::{'y': -12.10544239200801, 'x': 1.4554174420772246, 'z': 3.777146699649071}
+VOL_after::3402.28955182976
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.15M (0.00M, Peak 10.67M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'l2': 37.65142059326172, 'l1': -22.0, 'b2': -11.399999618530273, 'h2': 11.010000228881836, 'h1': -0.5, 'b1': 11.0}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 20
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+7.82012939453125e-05
+3.3855438232421875e-05
+7.486343383789062e-05
+COM_after::{'y': -11.174776231275114, 'z': 4.563156542866047, 'x': -0.10318951403869499}
+VOL_after::4014.193599216138
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.25M (0.00M, Peak 10.73M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'h2': 11.010000228881836, 'h1': -0.5, 'b1': 11.0, 'b2': -11.399999618530273, 'l2': 37.65142059326172, 'l1': -22.0}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 21
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.337860107421875e-06
+7.677078247070312e-05
+5.9604644775390625e-05
+COM_after::{'x': -0.6976871216295643, 'y': -11.229674648039614, 'z': 4.216264484915838}
+VOL_after::4209.234322276754
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.25M (0.00M, Peak 10.73M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'b2': -11.399999618530273, 'l2': 37.65142059326172, 'h2': 11.010000228881836, 'b1': 11.0, 'h1': -0.5, 'l1': -22.0}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 22
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+4.1484832763671875e-05
+1.8596649169921875e-05
+4.291534423828125e-05
+COM_after::{'x': 1.5103785247506176, 'y': -11.533113217797693, 'z': 4.53452101182804}
+VOL_after::3783.260524521046
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.25M (0.00M, Peak 10.73M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'l2': 37.65142059326172, 'h2': 11.010000228881836, 'b2': -11.399999618530273, 'b1': 11.0, 'l1': -22.0, 'h1': -0.5}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 23
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+2.2411346435546875e-05
+3.147125244140625e-05
+8.487701416015625e-05
+COM_after::{'x': 1.1768583688619947, 'z': 4.338719941942944, 'y': -11.74860983667801}
+VOL_after::3753.901330818434
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.15M (0.00M, Peak 10.67M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'h2': 11.010000228881836, 'l1': -22.0, 'b2': -11.399999618530273, 'l2': 37.65142059326172, 'b1': 11.0, 'h1': -0.5}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 24
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.0994415283203125e-05
+9.5367431640625e-06
+6.67572021484375e-06
+COM_after::{'z': 4.619755503749638, 'x': 0.7715036937393723, 'y': -11.89493333430872}
+VOL_after::3827.2162690618484
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.15M (0.00M, Peak 10.67M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'b1': 11.0, 'h2': 11.010000228881836, 'l2': 37.65142059326172, 'h1': -0.5, 'b2': -11.399999618530273, 'l1': -22.0}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 25
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+5.364418029785156e-05
+2.956390380859375e-05
+3.5762786865234375e-05
+COM_after::{'z': 4.51328193653448, 'x': 0.0726179538092443, 'y': -11.178388824314094}
+VOL_after::3991.8143276373394
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.15M (0.00M, Peak 10.67M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'l1': -22.0, 'h2': 11.010000228881836, 'h1': -0.5, 'b1': 11.0, 'b2': -11.399999618530273, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 26
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+5.817413330078125e-05
+3.337860107421875e-05
+3.0517578125e-05
+COM_after::{'z': 4.511727336738058, 'y': -11.937259085680925, 'x': 1.9078213812659732}
+VOL_after::3711.5522899717953
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.15M (0.00M, Peak 10.67M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'l1': -22.0, 'b2': -11.399999618530273, 'h1': -0.5, 'h2': 11.010000228881836, 'b1': 11.0, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 27
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+2.9087066650390625e-05
+9.1552734375e-05
+3.0517578125e-05
+COM_after::{'y': -11.127015762484485, 'z': 4.283464763405064, 'x': -0.1080772671467047}
+VOL_after::4120.447868760888
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.25M (0.00M, Peak 10.73M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'b2': -11.399999618530273, 'h2': 11.010000228881836, 'h1': -0.5, 'l1': -22.0, 'l2': 37.65142059326172, 'b1': 11.0}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 28
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+2.1576881408691406e-05
+2.2411346435546875e-05
+3.337860107421875e-05
+COM_after::{'z': 4.566925518555185, 'y': -11.822086006950975, 'x': -0.14524002173159656}
+VOL_after::3977.9332879706258
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.15M (0.00M, Peak 10.67M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'b2': -11.399999618530273, 'h1': -0.5, 'l1': -22.0, 'b1': 11.0, 'h2': 11.010000228881836, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 29
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+4.8160552978515625e-05
+4.863739013671875e-05
+7.390975952148438e-05
+COM_after::{'x': -0.9458197755930116, 'y': -11.909138185455785, 'z': 4.811812968481189}
+VOL_after::3781.6582466691807
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.25M (0.00M, Peak 10.73M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'l1': -22.0, 'h2': 11.010000228881836, 'l2': 37.65142059326172, 'b1': 11.0, 'h1': -0.5, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 30
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.62396240234375e-05
+4.38690185546875e-05
+7.2479248046875e-05
+COM_after::{'z': 1.9948695890298984, 'y': 7.416827253111153, 'x': -0.06974806162345165}
+VOL_after::12408.766998263789
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.15M (0.00M, Peak 10.67M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'l1': -22.0, 'b2': -11.399999618530273, 'h2': 11.010000228881836, 'h1': -0.5, 'l2': 37.65142059326172, 'b1': 11.0}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 31
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+8.630752563476562e-05
+9.012222290039062e-05
+3.337860107421875e-05
+COM_after::{'z': 4.442104722301006, 'y': -10.977427652133404, 'x': 1.4017276864651096}
+VOL_after::3740.5161084291376
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.25M (0.00M, Peak 10.73M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'l1': -22.0, 'b2': -11.399999618530273, 'l2': 37.65142059326172, 'b1': 11.0, 'h1': -0.5, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 32
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+9.632110595703125e-05
+6.67572021484375e-05
+3.814697265625e-06
+COM_after::{'x': 1.7031032352690791, 'y': -11.404697254371003, 'z': 4.553909643043332}
+VOL_after::3536.927608610714
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.15M (0.00M, Peak 10.67M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'l2': 37.65142059326172, 'l1': -22.0, 'b2': -11.399999618530273, 'b1': 11.0, 'h2': 11.010000228881836, 'h1': -0.5}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 33
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+8.58306884765625e-05
+6.008148193359375e-05
+1.2874603271484375e-05
+COM_after::{'x': 0.23140855033234467, 'z': 4.722652360906157, 'y': -12.06392409489816}
+VOL_after::3764.3158295054
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.25M (0.00M, Peak 10.73M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'l2': 37.65142059326172, 'h2': 11.010000228881836, 'b1': 11.0, 'l1': -22.0, 'b2': -11.399999618530273, 'h1': -0.5}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 34
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+5.7697296142578125e-05
+6.341934204101562e-05
+2.8133392333984375e-05
+COM_after::{'x': 0.35203064092942526, 'y': -11.376471807603881, 'z': 4.22713343738747}
+VOL_after::3762.4377970903693
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.15M (0.00M, Peak 10.67M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'b2': -11.399999618530273, 'b1': 11.0, 'l1': -22.0, 'h1': -0.5, 'h2': 11.010000228881836, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 35
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.1948089599609375e-05
+9.679794311523438e-05
+6.67572021484375e-05
+COM_after::{'x': 2.228414350217206, 'z': 4.093437824027331, 'y': -11.561414141491563}
+VOL_after::3779.7105072379595
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.15M (0.00M, Peak 10.67M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'l2': 37.65142059326172, 'h1': -0.5, 'b2': -11.399999618530273, 'h2': 11.010000228881836, 'l1': -22.0, 'b1': 11.0}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 36
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+8.487701416015625e-05
+5.91278076171875e-05
+5.14984130859375e-05
+COM_after::{'y': -12.243333858408318, 'x': -0.012584828967881274, 'z': 4.517204813238993}
+VOL_after::3847.720704667275
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.15M (0.00M, Peak 10.67M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'h2': 11.010000228881836, 'b2': -11.399999618530273, 'b1': 11.0, 'l2': 37.65142059326172, 'l1': -22.0, 'h1': -0.5}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 37
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+7.915496826171875e-05
+8.58306884765625e-05
+2.765655517578125e-05
+COM_after::{'x': -0.7933304477939854, 'y': -10.996041034763648, 'z': 4.340159562549538}
+VOL_after::4112.044177757887
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.25M (0.00M, Peak 10.73M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'l2': 37.65142059326172, 'l1': -22.0, 'b2': -11.399999618530273, 'h1': -0.5, 'b1': 11.0, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 38
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+2.3365020751953125e-05
+6.532669067382812e-05
+1.621246337890625e-05
+COM_after::{'y': -11.314024827254853, 'z': 4.254033784952649, 'x': 2.0777663739394523}
+VOL_after::3609.1224399325947
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.25M (0.00M, Peak 10.73M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'l1': -22.0, 'l2': 37.65142059326172, 'b1': 11.0, 'h1': -0.5, 'b2': -11.399999618530273, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 39
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+4.9591064453125e-05
+8.296966552734375e-05
+7.62939453125e-06
+COM_after::{'z': 5.105457712578042, 'x': 0.7515742799373909, 'y': -12.059430171213272}
+VOL_after::3788.716112793461
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.25M (0.00M, Peak 10.73M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'l1': -22.0, 'b2': -11.399999618530273, 'l2': 37.65142059326172, 'b1': 11.0, 'h2': 11.010000228881836, 'h1': -0.5}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 40
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+7.534027099609375e-05
+7.724761962890625e-05
+3.147125244140625e-05
+COM_after::{'z': 4.311496657889336, 'y': -10.986187560401596, 'x': 1.0583091010437284}
+VOL_after::3685.5973066365705
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.25M (0.00M, Peak 10.73M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'h2': 11.010000228881836, 'l2': 37.65142059326172, 'h1': -0.5, 'b1': 11.0, 'l1': -22.0, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 41
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.337860107421875e-06
+1.5735626220703125e-05
+1.430511474609375e-06
+COM_after::{'x': -0.011709457836867781, 'z': 4.247368411235145, 'y': -11.462310292868208}
+VOL_after::3937.902404967521
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.25M (0.00M, Peak 10.73M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'b1': 11.0, 'b2': -11.399999618530273, 'l1': -22.0, 'h1': -0.5, 'h2': 11.010000228881836, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 42
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.4809112548828125e-05
+4.76837158203125e-05
+5.0067901611328125e-05
+COM_after::{'z': 4.473928321181635, 'x': 0.14337953512160867, 'y': -12.008837800170229}
+VOL_after::3796.660007957747
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.25M (0.00M, Peak 10.73M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'b1': 11.0, 'l1': -22.0, 'h2': 11.010000228881836, 'l2': 37.65142059326172, 'h1': -0.5, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 43
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+7.581710815429688e-05
+4.5299530029296875e-05
+8.20159912109375e-05
+COM_after::{'z': 4.475741675951789, 'x': 0.8579909082589019, 'y': -11.806728605098092}
+VOL_after::3875.5887583357216
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.25M (0.00M, Peak 10.73M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'b1': 11.0, 'l1': -22.0, 'h1': -0.5, 'b2': -11.399999618530273, 'l2': 37.65142059326172, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 44
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.7670135498046875e-05
+9.34600830078125e-05
+1.049041748046875e-05
+COM_after::{'x': 1.1844455898431951, 'z': 4.342811500662646, 'y': -11.527958806800466}
+VOL_after::3605.3108061936828
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.15M (0.00M, Peak 10.67M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'b2': -11.399999618530273, 'b1': 11.0, 'l2': 37.65142059326172, 'h1': -0.5, 'l1': -22.0, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 45
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+6.103515625e-05
+6.818771362304688e-05
+1.6689300537109375e-05
+COM_after::{'x': 0.5958101207391961, 'z': 4.487249477058528, 'y': -11.582389373892727}
+VOL_after::3918.4373046616925
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.15M (0.00M, Peak 10.67M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'b1': 11.0, 'l1': -22.0, 'h1': -0.5, 'h2': 11.010000228881836, 'l2': 37.65142059326172, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 46
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+4.76837158203125e-07
+2.6226043701171875e-05
+3.7670135498046875e-05
+COM_after::{'z': 4.3745372751133145, 'x': -1.1669980083169087, 'y': -11.014270378781868}
+VOL_after::4174.421507342749
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.15M (0.00M, Peak 10.67M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'l2': 37.65142059326172, 'b1': 11.0, 'l1': -22.0, 'h1': -0.5, 'b2': -11.399999618530273, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 47
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+9.202957153320312e-05
+6.4849853515625e-05
+9.632110595703125e-05
+COM_after::{'y': -11.283755421821397, 'z': 4.215070175360291, 'x': 0.541152405183566}
+VOL_after::3978.974467371182
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.15M (0.00M, Peak 10.67M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'h1': -0.5, 'b1': 11.0, 'l1': -22.0, 'b2': -11.399999618530273, 'h2': 11.010000228881836, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 48
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+9.34600830078125e-05
+2.4318695068359375e-05
+3.0517578125e-05
+COM_after::{'x': 0.02374300558715471, 'y': -11.36396454679572, 'z': 4.704449857717046}
+VOL_after::4014.0797567170334
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.25M (0.00M, Peak 10.73M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'b1': 11.0, 'l2': 37.65142059326172, 'b2': -11.399999618530273, 'l1': -22.0, 'h1': -0.5, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+
+Blender quit
+
+Iteration Count 49
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+2.47955322265625e-05
+1.9073486328125e-05
+6.389617919921875e-05
+COM_after::{'x': -1.0700077406940547, 'z': 4.540244213062486, 'y': -12.337888220179472}
+VOL_after::3585.0298756242946
+found bundled python: /home/shashank/blend/2.76/python
+Error Totblock: 1
+found bundled python: /home/shashank/blend/2.76/python
+read blend: /home/shashank/blend/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Cannot render, no camera
+Fra:0 Mem:10.25M (0.00M, Peak 10.73M) | Time:00:00.00 | Sce:  Ve:0 Fa:0 La:0
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'h1': -0.5, 'b2': -11.399999618530273, 'b1': 11.0, 'h2': 11.010000228881836, 'l1': -22.0, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+
+Blender quit

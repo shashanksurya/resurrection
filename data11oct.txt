@@ -1,0 +1,1991 @@
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+2.288818359375e-05
+3.3855438232421875e-05
+4.8160552978515625e-05
+COM_after::{'z': 4.77143931849272, 'x': 0.4704055396474943, 'y': -11.460477853549673}
+VOL_after::3878.684757963093
+7.295608520507812e-05
+COM_after::{'z': 4.8730093452461345, 'x': 0.652397483016931, 'y': -11.406902600616915}
+VOL_after::3836.411817015963
+1.0013580322265625e-05
+COM_after::{'z': 4.884058644036152, 'x': 0.6656493529547621, 'y': -11.387313359465509}
+VOL_after::3834.8909254863515
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'h2': 11.010000228881836, 'b1': 11.0, 'l2': 37.65142059326172, 'h1': -0.5, 'b2': -11.399999618530273, 'l1': -22.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Unable to make version backup
+Error: Version backup failed (file saved with @)
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1429, in execute
+    bpy.ops.wm.save_as_mainfile('EXEC_DEFAULT', filepath=filepath, copy=True)
+  File "/home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py", line 187, in __call__
+    ret = op_call(self.idname_py(), C_dict, kw, C_exec, C_undo)
+RuntimeError: Error: Unable to make version backup
+Error: Version backup failed (file saved with @)
+
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'h2': 11.010000228881836, 'b2': -11.399999618530273, 'l2': 37.65142059326172, 'b1': 11.0, 'h1': -0.5, 'l1': -22.0}
+VOL_before 15379.567906954662
+Error: Unable to make version backup
+Error: Version backup failed (file saved with @)
+
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1429, in execute
+    bpy.ops.wm.save_as_mainfile('EXEC_DEFAULT', filepath=filepath, copy=True)
+  File "/home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py", line 187, in __call__
+    ret = op_call(self.idname_py(), C_dict, kw, C_exec, C_undo)
+RuntimeError: Error: Unable to make version backup
+Error: Version backup failed (file saved with @)
+
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+
+
+Blender quit
+ err: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1429, in execute
+    bpy.ops.wm.save_as_mainfile('EXEC_DEFAULT', filepath=filepath, copy=True)
+  File "/home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py", line 187, in __call__
+    ret = op_call(self.idname_py(), C_dict, kw, C_exec, C_undo)
+RuntimeError: Error: Unable to make version backup
+Error: Version backup failed (file saved with @)
+
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/Renderer.py", line 260, in <module>
+    bpy.ops.wm.blenderplayer_start()
+  File "/home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py", line 189, in __call__
+    ret = op_call(self.idname_py(), None, kw)
+RuntimeError: Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1429, in execute
+    bpy.ops.wm.save_as_mainfile('EXEC_DEFAULT', filepath=filepath, copy=True)
+  File "/home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py", line 187, in __call__
+    ret = op_call(self.idname_py(), C_dict, kw, C_exec, C_undo)
+RuntimeError: Error: Unable to make version backup
+Error: Version backup failed (file saved with @)
+
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+2.288818359375e-05
+3.3855438232421875e-05
+4.8160552978515625e-05
+COM_after::{'z': 4.77143931849272, 'y': -11.460477853549673, 'x': 0.4704055396474943}
+VOL_after::3878.684757963093
+7.295608520507812e-05
+COM_after::{'z': 4.8730093452461345, 'y': -11.406902600616915, 'x': 0.652397483016931}
+VOL_after::3836.411817015963
+1.0013580322265625e-05
+COM_after::{'z': 4.884058644036152, 'y': -11.387313359465509, 'x': 0.6656493529547621}
+VOL_after::3834.8909254863515
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'h2': 11.010000228881836, 'b2': -11.399999618530273, 'b1': 11.0, 'h1': -0.5, 'l2': 37.65142059326172, 'l1': -22.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+2.288818359375e-05
+3.3855438232421875e-05
+4.8160552978515625e-05
+COM_after::{'y': -11.460477853549673, 'x': 0.4704055396474943, 'z': 4.77143931849272}
+VOL_after::3878.684757963093
+7.295608520507812e-05
+COM_after::{'y': -11.406902600616915, 'x': 0.652397483016931, 'z': 4.8730093452461345}
+VOL_after::3836.411817015963
+1.0013580322265625e-05
+COM_after::{'y': -11.387313359465509, 'x': 0.6656493529547621, 'z': 4.884058644036152}
+VOL_after::3834.8909254863515
+4.482269287109375e-05
+COM_after::{'y': -11.37781578675759, 'x': 0.7564395890066327, 'z': 4.8729784324133965}
+VOL_after::3828.250072058575
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'h1': -0.5, 'l2': 37.65142059326172, 'l1': -22.0, 'b2': -11.399999618530273, 'h2': 11.010000228881836, 'b1': 11.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+2.288818359375e-05
+3.3855438232421875e-05
+4.8160552978515625e-05
+COM_after::{'z': 4.77143931849272, 'x': 0.4704055396474943, 'y': -11.460477853549673}
+VOL_after::3878.684757963093
+7.295608520507812e-05
+COM_after::{'z': 4.8730093452461345, 'x': 0.652397483016931, 'y': -11.406902600616915}
+VOL_after::3836.411817015963
+1.0013580322265625e-05
+COM_after::{'z': 4.884058644036152, 'x': 0.6656493529547621, 'y': -11.387313359465509}
+VOL_after::3834.8909254863515
+4.482269287109375e-05
+COM_after::{'z': 4.8729784324133965, 'x': 0.7564395890066327, 'y': -11.37781578675759}
+VOL_after::3828.250072058575
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'b1': 11.0, 'h1': -0.5, 'l2': 37.65142059326172, 'b2': -11.399999618530273, 'h2': 11.010000228881836, 'l1': -22.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Loading /home/shashank/Desktop/compress.blend~ failed: Error: Failed to read blend file '/home/shashank/blender-2.74/blenderplayer', not a blend file
+
+
+usage:   /home/shashank/blender-2.74/blenderplayer [--options] filename.blend
+
+Available options are: [-w [w h l t]] [-f [fw fh fb ff]] [-g gamengineoptions] [-s stereomode] [-m aasamples]
+Optional parameters must be passed in order.
+Default values are set in the blend file.
+
+  -h: Prints this command summary
+
+  -w: display in a window
+       --Optional parameters--
+       w = window width
+       h = window height
+       l = window left coordinate
+       t = window top coordinate
+       Note: To define 'w' or 'h', both must be used.Also, to define 'l' or 't', all four parameters must be used.
+       Example: -w   or  -w 500 300  or  -w 500 300 0 0
+
+  -f: start game in fullscreen mode
+       --Optional parameters--
+       fw = fullscreen mode pixel width    (use 0 to detect automatically)
+       fh = fullscreen mode pixel height   (use 0 to detect automatically)
+       fb = fullscreen mode bits per pixel (default unless set in the blend file: 32)
+       ff = fullscreen mode frequency      (default unless set in the blend file: 60)
+       Note: To define 'fw'' or 'fh'', both must be used.
+       Example: -f  or  -f 1024 768  or  -f 0 0 16  or  -f 1024 728 16 30
+
+  -s: start player in stereoscopy mode (requires 3D capable hardware)
+       stereomode: nostereo         (default unless stereo is set in the blend file)
+                   anaglyph         (Red-Blue glasses)
+                   sidebyside       (Left Right)
+                   syncdoubling     (Above Below)
+                   3dtvtopbottom    (Squashed Top-Bottom for passive glasses)
+                   interlace        (Interlace horizontally)
+                   vinterlace       (Vertical interlace for autostereo display)
+                   hwpageflip       (Quad buffered shutter glasses)
+       Example: -s sidebyside  or  -s vinterlace
+
+  -D: start player in dome mode
+       --Optional parameters--
+       angle    = field of view in degrees
+       tilt     = tilt angle in degrees
+       warpdata = a file to use for warping the image (absolute path)
+       mode: fisheye                (Fisheye)
+             truncatedfront         (Front-Truncated)
+             truncatedrear          (Rear-Truncated)
+             cubemap                (Cube Map)
+             sphericalpanoramic     (Spherical Panoramic)
+       Example: -D  or  -D mode cubemap
+
+  -m: maximum anti-aliasing (eg. 2,4,8,16)
+
+  -i: parent window's ID
+
+  -d: turn debugging on
+
+  -g: game engine options:
+
+       Name                       Default      Description
+       ------------------------------------------------------------------------
+       fixedtime                      0         "Enable all frames"
+       nomipmap                       0         Disable mipmaps
+       show_framerate                 0         Show the frame rate
+       show_properties                0         Show debug properties
+       show_profile                   0         Show profiling information
+       blender_material               0         Enable material settings
+       ignore_deprecation_warnings    1         Ignore deprecation warnings
+
+  - : all arguments after this are ignored, allowing python to access them from sys.argv
+
+example: /home/shashank/blender-2.74/blenderplayer -w 320 200 10 10 -g noaudio /home/user/filename.blend
+example: /home/shashank/blender-2.74/blenderplayer -g show_framerate = 0 /home/user/filename.blend
+example: /home/shashank/blender-2.74/blenderplayer -i 232421 -m 16 /home/user/filename.blend
+
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'l1': -22.0, 'b1': 11.0, 'b2': -11.399999618530273, 'h1': -0.5, 'h2': 11.010000228881836, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+
+
+Blender quit
+ err: connect failed: No such file or directory
+Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/Renderer.py", line 260, in <module>
+    bpy.ops.wm.blenderplayer_start()
+  File "/home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py", line 189, in __call__
+    ret = op_call(self.idname_py(), None, kw)
+RuntimeError: Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+
+out: Loading /home/shashank/Desktop/compress.blend~ failed: Error: Failed to read blend file '/home/shashank/blender-2.74/blenderplayer', not a blend file
+
+
+usage:   /home/shashank/blender-2.74/blenderplayer [--options] filename.blend
+
+Available options are: [-w [w h l t]] [-f [fw fh fb ff]] [-g gamengineoptions] [-s stereomode] [-m aasamples]
+Optional parameters must be passed in order.
+Default values are set in the blend file.
+
+  -h: Prints this command summary
+
+  -w: display in a window
+       --Optional parameters--
+       w = window width
+       h = window height
+       l = window left coordinate
+       t = window top coordinate
+       Note: To define 'w' or 'h', both must be used.Also, to define 'l' or 't', all four parameters must be used.
+       Example: -w   or  -w 500 300  or  -w 500 300 0 0
+
+  -f: start game in fullscreen mode
+       --Optional parameters--
+       fw = fullscreen mode pixel width    (use 0 to detect automatically)
+       fh = fullscreen mode pixel height   (use 0 to detect automatically)
+       fb = fullscreen mode bits per pixel (default unless set in the blend file: 32)
+       ff = fullscreen mode frequency      (default unless set in the blend file: 60)
+       Note: To define 'fw'' or 'fh'', both must be used.
+       Example: -f  or  -f 1024 768  or  -f 0 0 16  or  -f 1024 728 16 30
+
+  -s: start player in stereoscopy mode (requires 3D capable hardware)
+       stereomode: nostereo         (default unless stereo is set in the blend file)
+                   anaglyph         (Red-Blue glasses)
+                   sidebyside       (Left Right)
+                   syncdoubling     (Above Below)
+                   3dtvtopbottom    (Squashed Top-Bottom for passive glasses)
+                   interlace        (Interlace horizontally)
+                   vinterlace       (Vertical interlace for autostereo display)
+                   hwpageflip       (Quad buffered shutter glasses)
+       Example: -s sidebyside  or  -s vinterlace
+
+  -D: start player in dome mode
+       --Optional parameters--
+       angle    = field of view in degrees
+       tilt     = tilt angle in degrees
+       warpdata = a file to use for warping the image (absolute path)
+       mode: fisheye                (Fisheye)
+             truncatedfront         (Front-Truncated)
+             truncatedrear          (Rear-Truncated)
+             cubemap                (Cube Map)
+             sphericalpanoramic     (Spherical Panoramic)
+       Example: -D  or  -D mode cubemap
+
+  -m: maximum anti-aliasing (eg. 2,4,8,16)
+
+  -i: parent window's ID
+
+  -d: turn debugging on
+
+  -g: game engine options:
+
+       Name                       Default      Description
+       ------------------------------------------------------------------------
+       fixedtime                      0         "Enable all frames"
+       nomipmap                       0         Disable mipmaps
+       show_framerate                 0         Show the frame rate
+       show_properties                0         Show debug properties
+       show_profile                   0         Show profiling information
+       blender_material               0         Enable material settings
+       ignore_deprecation_warnings    1         Ignore deprecation warnings
+
+  - : all arguments after this are ignored, allowing python to access them from sys.argv
+
+example: /home/shashank/blender-2.74/blenderplayer -w 320 200 10 10 -g noaudio /home/user/filename.blend
+example: /home/shashank/blender-2.74/blenderplayer -g show_framerate = 0 /home/user/filename.blend
+example: /home/shashank/blender-2.74/blenderplayer -i 232421 -m 16 /home/user/filename.blend
+
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'b1': 11.0, 'b2': -11.399999618530273, 'h1': -0.5, 'l2': 37.65142059326172, 'l1': -22.0, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+
+
+Blender quit
+ err: connect failed: No such file or directory
+Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/Renderer.py", line 260, in <module>
+    bpy.ops.wm.blenderplayer_start()
+  File "/home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py", line 189, in __call__
+    ret = op_call(self.idname_py(), None, kw)
+RuntimeError: Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+1.621246337890625e-05
+3.4332275390625e-05
+7.009506225585938e-05
+COM_after::{'z': 4.2012516872391705, 'x': 0.1571868531331397, 'y': -11.264489629904206}
+VOL_after::4194.6880539246695
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'b2': -11.399999618530273, 'l1': -22.0, 'b1': 11.0, 'h2': 11.010000228881836, 'l2': 37.65142059326172, 'h1': -0.5}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.337860107421875e-05
+4.3392181396484375e-05
+1.1920928955078125e-05
+COM_after::{'y': -10.976039875109542, 'x': 0.37655795546726156, 'z': 4.539625650624268}
+VOL_after::3847.3280341034097
+found bundled python: /home/shashank/blender-2.74/2.74/python
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'b2': -11.399999618530273, 'l2': 37.65142059326172, 'b1': 11.0, 'h1': -0.5, 'l1': -22.0, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+
+
+Blender quit
+ err: connect failed: No such file or directory
+Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/Renderer.py", line 260, in <module>
+    bpy.ops.wm.blenderplayer_start()
+  File "/home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py", line 189, in __call__
+    ret = op_call(self.idname_py(), None, kw)
+RuntimeError: Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+4.100799560546875e-05
+7.104873657226562e-05
+8.7738037109375e-05
+COM_after::{'z': 4.757176938264326, 'x': -0.8855702126510585, 'y': -12.493694868421018}
+VOL_after::3590.820844390831
+found bundled python: /home/shashank/blender-2.74/2.74/python
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'b1': 11.0, 'h1': -0.5, 'l1': -22.0, 'b2': -11.399999618530273, 'h2': 11.010000228881836, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+
+
+Blender quit
+ err: connect failed: No such file or directory
+Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/Renderer.py", line 260, in <module>
+    bpy.ops.wm.blenderplayer_start()
+  File "/home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py", line 189, in __call__
+    ret = op_call(self.idname_py(), None, kw)
+RuntimeError: Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+4.100799560546875e-05
+7.104873657226562e-05
+8.7738037109375e-05
+COM_after::{'z': 4.757176938264326, 'x': -0.8855702126510585, 'y': -12.493694868421018}
+VOL_after::3590.820844390831
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'h2': 11.010000228881836, 'l2': 37.65142059326172, 'h1': -0.5, 'b2': -11.399999618530273, 'b1': 11.0, 'l1': -22.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+9.918212890625e-05
+1.0967254638671875e-05
+2.193450927734375e-05
+COM_after::{'x': -0.008043219002591728, 'z': 4.528479833128143, 'y': -11.519094681589976}
+VOL_after::4113.59371432237
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'b1': 11.0, 'l1': -22.0, 'h1': -0.5, 'h2': 11.010000228881836, 'l2': 37.65142059326172, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+5.7220458984375e-06
+8.487701416015625e-05
+2.4318695068359375e-05
+COM_after::{'z': 4.681270912263414, 'y': -11.517791515848382, 'x': 0.326443770332014}
+VOL_after::3910.9693104844832
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'h2': 11.010000228881836, 'b1': 11.0, 'b2': -11.399999618530273, 'l1': -22.0, 'l2': 37.65142059326172, 'h1': -0.5}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+1.9073486328125e-06
+1.5735626220703125e-05
+6.198883056640625e-05
+COM_after::{'z': 4.47809750213262, 'x': 0.32074724455044273, 'y': -11.505648607502339}
+VOL_after::3912.371687792565
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'h1': -0.5, 'b2': -11.399999618530273, 'h2': 11.010000228881836, 'b1': 11.0, 'l1': -22.0, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+5.91278076171875e-05
+6.628036499023438e-05
+2.86102294921875e-06
+COM_after::{'x': -0.3245746659547664, 'y': -11.40961081866158, 'z': 4.517605492591234}
+VOL_after::4067.5034843933927
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'h1': -0.5, 'l2': 37.65142059326172, 'l1': -22.0, 'b1': 11.0, 'b2': -11.399999618530273, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+5.0067901611328125e-05
+8.916854858398438e-05
+8.535385131835938e-05
+COM_after::{'y': -10.360047421763932, 'z': 4.530215801354075, 'x': 1.2747252622006546}
+VOL_after::3728.0825650739303
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'h2': 11.010000228881836, 'h1': -0.5, 'l1': -22.0, 'b1': 11.0, 'l2': 37.65142059326172, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+7.152557373046875e-05
+4.100799560546875e-05
+9.679794311523438e-05
+COM_after::{'z': 4.250729822382889, 'x': 2.3808069459470222, 'y': -9.91673718888167}
+VOL_after::3660.4511459812675
+8.153915405273438e-05
+COM_after::{'z': 4.25775759484371, 'x': 2.365553021903977, 'y': -9.907669001644546}
+VOL_after::3669.468922603088
+9.965896606445312e-05
+COM_after::{'z': 4.260966710880374, 'x': 2.327144749689272, 'y': -9.896844887568225}
+VOL_after::3671.839329973748
+found bundled python: /home/shashank/blender-2.74/2.74/python
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'b1': 11.0, 'l1': -22.0, 'h2': 11.010000228881836, 'h1': -0.5, 'l2': 37.65142059326172, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+
+
+Blender quit
+ err: connect failed: No such file or directory
+Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/Renderer.py", line 260, in <module>
+    bpy.ops.wm.blenderplayer_start()
+  File "/home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py", line 189, in __call__
+    ret = op_call(self.idname_py(), None, kw)
+RuntimeError: Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.7670135498046875e-05
+9.72747802734375e-05
+6.341934204101562e-05
+COM_after::{'y': -11.573118334470438, 'z': 4.396265665385822, 'x': 0.587419204752788}
+VOL_after::3802.3767209257317
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'h1': -0.5, 'h2': 11.010000228881836, 'b1': 11.0, 'b2': -11.399999618530273, 'l1': -22.0, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+2.8133392333984375e-05
+7.200241088867188e-05
+4.1961669921875e-05
+COM_after::{'x': 0.13583046312489927, 'y': -11.313691159213972, 'z': 4.516918338920028}
+VOL_after::3917.883459674149
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'h2': 11.010000228881836, 'l2': 37.65142059326172, 'l1': -22.0, 'b2': -11.399999618530273, 'h1': -0.5, 'b1': 11.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+2.1457672119140625e-05
+7.677078247070312e-05
+9.202957153320312e-05
+COM_after::{'y': -11.510874321309304, 'x': 0.04819295992722425, 'z': 4.621925393696805}
+VOL_after::4066.043325255312
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'h1': -0.5, 'l1': -22.0, 'b2': -11.399999618530273, 'b1': 11.0, 'h2': 11.010000228881836, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.9577484130859375e-05
+9.489059448242188e-05
+9.393692016601562e-05
+COM_after::{'z': 4.828383658300172, 'x': 0.27405913760379086, 'y': -11.482768418352418}
+VOL_after::3987.4130733523107
+2.384185791015625e-06
+COM_after::{'z': 4.885209649548312, 'x': 0.3361310541278555, 'y': -11.589585490797116}
+VOL_after::3962.3110481799217
+2.6702880859375e-05
+COM_after::{'z': 4.881808978958671, 'x': 0.3345711075408133, 'y': -11.572644388301914}
+VOL_after::3966.2573012887246
+found bundled python: /home/shashank/blender-2.74/2.74/python
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'l2': 37.65142059326172, 'b2': -11.399999618530273, 'h2': 11.010000228881836, 'b1': 11.0, 'l1': -22.0, 'h1': -0.5}
+VOL_before 15379.567906954662
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+
+
+Blender quit
+ err: connect failed: No such file or directory
+Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/Renderer.py", line 260, in <module>
+    bpy.ops.wm.blenderplayer_start()
+  File "/home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py", line 189, in __call__
+    ret = op_call(self.idname_py(), None, kw)
+RuntimeError: Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.9577484130859375e-05
+9.489059448242188e-05
+9.393692016601562e-05
+COM_after::{'z': 4.828383658300172, 'y': -11.482768418352418, 'x': 0.27405913760379086}
+VOL_after::3987.4130733523107
+2.384185791015625e-06
+COM_after::{'z': 4.885209649548312, 'y': -11.589585490797116, 'x': 0.3361310541278555}
+VOL_after::3962.3110481799217
+2.6702880859375e-05
+COM_after::{'z': 4.881808978958671, 'y': -11.572644388301914, 'x': 0.3345711075408133}
+VOL_after::3966.2573012887246
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'h1': -0.5, 'h2': 11.010000228881836, 'l2': 37.65142059326172, 'b2': -11.399999618530273, 'l1': -22.0, 'b1': 11.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+8.106231689453125e-06
+3.2901763916015625e-05
+2.5272369384765625e-05
+COM_after::{'x': -0.183180428915809, 'z': 4.504499727126509, 'y': -11.711170805497675}
+VOL_after::3932.796335296568
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'h2': 11.010000228881836, 'b2': -11.399999618530273, 'h1': -0.5, 'b1': 11.0, 'l1': -22.0, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+9.953975677490234e-06
+2.193450927734375e-05
+2.956390380859375e-05
+COM_after::{'y': -11.89306755501112, 'x': 2.164027057973, 'z': 4.525469750130205}
+VOL_after::3454.136081427275
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'l1': -22.0, 'h1': -0.5, 'h2': 11.010000228881836, 'b1': 11.0, 'b2': -11.399999618530273, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+1.9550323486328125e-05
+7.152557373046875e-06
+4.38690185546875e-05
+COM_after::{'x': 0.8411787538584319, 'z': 4.714613384218328, 'y': -10.871327543117856}
+VOL_after::3770.7098192850112
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'h1': -0.5, 'b1': 11.0, 'h2': 11.010000228881836, 'l1': -22.0, 'b2': -11.399999618530273, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+5.626678466796875e-05
+4.673004150390625e-05
+9.34600830078125e-05
+COM_after::{'y': -11.111304700853621, 'x': -0.006259994850206688, 'z': 4.896122591935982}
+VOL_after::4041.111326191197
+2.193450927734375e-05
+COM_after::{'y': -11.12912081897331, 'x': 0.03906650575387355, 'z': 4.897174362336265}
+VOL_after::4042.5561178212993
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'h1': -0.5, 'l1': -22.0, 'h2': 11.010000228881836, 'b2': -11.399999618530273, 'l2': 37.65142059326172, 'b1': 11.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+4.076957702636719e-05
+3.2901763916015625e-05
+3.24249267578125e-05
+COM_after::{'z': 4.731610633813349, 'x': 0.6767755645023206, 'y': -11.507833803879489}
+VOL_after::3879.8021602032222
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'h1': -0.5, 'b2': -11.399999618530273, 'h2': 11.010000228881836, 'l1': -22.0, 'b1': 11.0, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+9.5367431640625e-05
+4.7206878662109375e-05
+6.341934204101562e-05
+COM_after::{'x': 1.2513476351129595, 'z': 4.555276057010498, 'y': -9.820711467307815}
+VOL_after::3924.7892489394744
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'l2': 37.65142059326172, 'l1': -22.0, 'b2': -11.399999618530273, 'h2': 11.010000228881836, 'b1': 11.0, 'h1': -0.5}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+6.16312026977539e-05
+2.9087066650390625e-05
+1.52587890625e-05
+COM_after::{'z': 4.10663939957559, 'y': -11.765234472328821, 'x': 0.22056879810795216}
+VOL_after::3954.3343280185936
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'l1': -22.0, 'b2': -11.399999618530273, 'h2': 11.010000228881836, 'b1': 11.0, 'h1': -0.5, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+6.437301635742188e-05
+2.765655517578125e-05
+8.869171142578125e-05
+COM_after::{'y': -11.619951511149093, 'x': 0.8173423635294047, 'z': 4.588750651337035}
+VOL_after::3927.892747910739
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'l1': -22.0, 'l2': 37.65142059326172, 'b2': -11.399999618530273, 'h1': -0.5, 'h2': 11.010000228881836, 'b1': 11.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+9.72747802734375e-05
+4.76837158203125e-06
+7.62939453125e-05
+COM_after::{'z': 4.438625427203463, 'y': -11.268669685863067, 'x': 1.1877570434893234}
+VOL_after::3740.885543320939
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'b1': 11.0, 'l2': 37.65142059326172, 'b2': -11.399999618530273, 'h1': -0.5, 'h2': 11.010000228881836, 'l1': -22.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+6.29425048828125e-05
+9.584426879882812e-05
+9.393692016601562e-05
+COM_after::{'y': -11.725656658402674, 'z': 4.427501429101884, 'x': -0.31584475256475014}
+VOL_after::3946.5631636439857
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'h1': -0.5, 'b2': -11.399999618530273, 'l2': 37.65142059326172, 'b1': 11.0, 'h2': 11.010000228881836, 'l1': -22.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+6.866455078125e-05
+8.20159912109375e-05
+9.250640869140625e-05
+COM_after::{'z': 4.165268591575034, 'y': -10.835026481018685, 'x': -0.34067138006864545}
+VOL_after::4258.437025801655
+found bundled python: /home/shashank/blender-2.74/2.74/python
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'l2': 37.65142059326172, 'h1': -0.5, 'b1': 11.0, 'h2': 11.010000228881836, 'b2': -11.399999618530273, 'l1': -22.0}
+VOL_before 15379.567906954662
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+
+
+Blender quit
+ err: connect failed: No such file or directory
+Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/Renderer.py", line 260, in <module>
+    bpy.ops.wm.blenderplayer_start()
+  File "/home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py", line 189, in __call__
+    ret = op_call(self.idname_py(), None, kw)
+RuntimeError: Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+8.106231689453125e-06
+6.4849853515625e-05
+8.344650268554688e-05
+COM_after::{'z': 4.57627947575004, 'y': -11.762738825104606, 'x': 0.6593238088816954}
+VOL_after::3692.157019622221
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'l1': -22.0, 'b1': 11.0, 'h2': 11.010000228881836, 'h1': -0.5, 'b2': -11.399999618530273, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+4.6253204345703125e-05
+2.288818359375e-05
+7.62939453125e-06
+COM_after::{'z': 4.313876723637479, 'y': -10.747732544349155, 'x': 1.6082364484337686}
+VOL_after::3829.090859155092
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'l1': -22.0, 'b1': 11.0, 'h2': 11.010000228881836, 'h1': -0.5, 'l2': 37.65142059326172, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+5.9604644775390625e-05
+6.008148193359375e-05
+1.430511474609375e-06
+COM_after::{'y': -11.920476484317755, 'x': -0.2752007938442797, 'z': 4.572410708789201}
+VOL_after::3850.092956138893
+found bundled python: /home/shashank/blender-2.74/2.74/python
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'b2': -11.399999618530273, 'b1': 11.0, 'h1': -0.5, 'l1': -22.0, 'l2': 37.65142059326172, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+
+
+Blender quit
+ err: connect failed: No such file or directory
+Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/Renderer.py", line 260, in <module>
+    bpy.ops.wm.blenderplayer_start()
+  File "/home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py", line 189, in __call__
+    ret = op_call(self.idname_py(), None, kw)
+RuntimeError: Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+1.049041748046875e-05
+7.534027099609375e-05
+7.295608520507812e-05
+COM_after::{'z': 4.671184268047768, 'x': 0.3117903766822107, 'y': -11.408534861716149}
+VOL_after::3904.9922104613115
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'h1': -0.5, 'l2': 37.65142059326172, 'l1': -22.0, 'b1': 11.0, 'h2': 11.010000228881836, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.3855438232421875e-05
+8.106231689453125e-05
+1.621246337890625e-05
+COM_after::{'y': -11.47226899083189, 'x': 1.3639945073046003, 'z': 4.365840170484684}
+VOL_after::3531.452104047959
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'h1': -0.5, 'h2': 11.010000228881836, 'l1': -22.0, 'b2': -11.399999618530273, 'b1': 11.0, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.4332275390625e-05
+5.6743621826171875e-05
+7.343292236328125e-05
+COM_after::{'x': 1.6591849916734214, 'y': -11.320948749689075, 'z': 4.332000102488263}
+VOL_after::3548.384147278683
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'b2': -11.399999618530273, 'b1': 11.0, 'l1': -22.0, 'h1': -0.5, 'h2': 11.010000228881836, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+5.7220458984375e-06
+5.1021575927734375e-05
+3.147125244140625e-05
+COM_after::{'z': 4.223739227770614, 'y': -11.433486939920876, 'x': 0.614823706840962}
+VOL_after::3959.7992597358593
+found bundled python: /home/shashank/blender-2.74/2.74/python
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'h2': 11.010000228881836, 'l1': -22.0, 'b2': -11.399999618530273, 'l2': 37.65142059326172, 'h1': -0.5, 'b1': 11.0}
+VOL_before 15379.567906954662
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+
+
+Blender quit
+ err: connect failed: No such file or directory
+Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/Renderer.py", line 260, in <module>
+    bpy.ops.wm.blenderplayer_start()
+  File "/home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py", line 189, in __call__
+    ret = op_call(self.idname_py(), None, kw)
+RuntimeError: Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+5.7220458984375e-06
+5.1021575927734375e-05
+3.147125244140625e-05
+COM_after::{'y': -11.433486939920876, 'z': 4.223739227770614, 'x': 0.614823706840962}
+VOL_after::3959.7992597358593
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'l2': 37.65142059326172, 'h1': -0.5, 'b2': -11.399999618530273, 'b1': 11.0, 'l1': -22.0, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+9.369850158691406e-05
+1.6689300537109375e-05
+5.7220458984375e-05
+COM_after::{'y': -10.955222749912929, 'x': 1.1779806976289504, 'z': 4.280032522208293}
+VOL_after::3854.1839097028214
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'h1': -0.5, 'b1': 11.0, 'l1': -22.0, 'l2': 37.65142059326172, 'b2': -11.399999618530273, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+6.29425048828125e-05
+7.62939453125e-06
+6.437301635742188e-05
+COM_after::{'x': 1.9313966849469033, 'y': -10.38242462812319, 'z': 4.274864259365265}
+VOL_after::3740.9674214034485
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'l1': -22.0, 'h1': -0.5, 'l2': 37.65142059326172, 'b2': -11.399999618530273, 'b1': 11.0, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+2.193450927734375e-05
+9.775161743164062e-05
+5.1021575927734375e-05
+COM_after::{'y': -11.659514870639326, 'z': 4.2734104105521995, 'x': 0.23163010208835766}
+VOL_after::3807.3449747851337
+found bundled python: /home/shashank/blender-2.74/2.74/python
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'l2': 37.65142059326172, 'l1': -22.0, 'h1': -0.5, 'b1': 11.0, 'b2': -11.399999618530273, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+
+
+Blender quit
+ err: connect failed: No such file or directory
+Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/Renderer.py", line 260, in <module>
+    bpy.ops.wm.blenderplayer_start()
+  File "/home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py", line 189, in __call__
+    ret = op_call(self.idname_py(), None, kw)
+RuntimeError: Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+9.5367431640625e-05
+7.82012939453125e-05
+4.76837158203125e-05
+COM_after::{'y': -11.123816822303633, 'z': 4.392523895032258, 'x': -0.4743048779245776}
+VOL_after::4054.001223063332
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'l2': 37.65142059326172, 'h2': 11.010000228881836, 'b2': -11.399999618530273, 'h1': -0.5, 'b1': 11.0, 'l1': -22.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+1.5735626220703125e-05
+9.059906005859375e-06
+1.52587890625e-05
+COM_after::{'y': -11.586472628628396, 'x': 0.7798930117652265, 'z': 4.672691182589049}
+VOL_after::3842.4053910076877
+2.8133392333984375e-05
+COM_after::{'y': -11.619200417656424, 'x': 0.823943191948846, 'z': 4.665489775125013}
+VOL_after::3818.7970876108047
+4.1961669921875e-05
+COM_after::{'y': -11.614667445498412, 'x': 0.8347667475984699, 'z': 4.658913953947423}
+VOL_after::3819.9363731822955
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'b1': 11.0, 'l2': 37.65142059326172, 'b2': -11.399999618530273, 'h1': -0.5, 'l1': -22.0, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+7.534027099609375e-05
+9.5367431640625e-06
+4.4345855712890625e-05
+COM_after::{'z': 4.827238223291674, 'x': -0.5638236863071668, 'y': -11.699320691677153}
+VOL_after::3964.2623528729937
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'b1': 11.0, 'l1': -22.0, 'h2': 11.010000228881836, 'b2': -11.399999618530273, 'l2': 37.65142059326172, 'h1': -0.5}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+ err: connect failed: No such file or directory
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+2.8133392333984375e-05
+5.14984130859375e-05
+7.152557373046875e-06
+COM_after::{'y': -11.727190318711015, 'z': 4.583759419302406, 'x': 0.3712413115752074}
+VOL_after::3898.9290523934606
+found bundled python: /home/shashank/blender-2.74/2.74/python
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'b1': 11.0, 'h1': -0.5, 'b2': -11.399999618530273, 'h2': 11.010000228881836, 'l1': -22.0, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+
+
+Blender quit
+ err: connect failed: No such file or directory
+Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/Renderer.py", line 260, in <module>
+    bpy.ops.wm.blenderplayer_start()
+  File "/home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py", line 189, in __call__
+    ret = op_call(self.idname_py(), None, kw)
+RuntimeError: Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+9.107589721679688e-05
+3.337860107421875e-05
+1.8596649169921875e-05
+COM_after::{'z': 5.069752022342585, 'y': -12.425789469477625, 'x': -1.7606616940999178}
+VOL_after::3849.272822973099
+7.343292236328125e-05
+COM_after::{'z': 5.078179999175398, 'y': -12.42705281837354, 'x': -1.7597459046545245}
+VOL_after::3851.1739681201293
+found bundled python: /home/shashank/blender-2.74/2.74/python
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'l2': 37.65142059326172, 'l1': -22.0, 'h1': -0.5, 'h2': 11.010000228881836, 'b1': 11.0, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+
+
+Blender quit
+ err: connect failed: No such file or directory
+Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/Renderer.py", line 260, in <module>
+    bpy.ops.wm.blenderplayer_start()
+  File "/home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py", line 189, in __call__
+    ret = op_call(self.idname_py(), None, kw)
+RuntimeError: Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+
+out: Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+9.5367431640625e-05
+8.440017700195312e-05
+1.71661376953125e-05
+COM_after::{'z': 4.411370704604269, 'y': -11.09698454362407, 'x': 0.7057181302807117}
+VOL_after::3757.0578169572086
+found bundled python: /home/shashank/blender-2.74/2.74/python
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'h2': 11.010000228881836, 'b1': 11.0, 'l2': 37.65142059326172, 'h1': -0.5, 'b2': -11.399999618530273, 'l1': -22.0}
+VOL_before 15379.567906954662
+Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+
+
+Blender quit
+ err: connect failed: No such file or directory
+Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/Renderer.py", line 260, in <module>
+    bpy.ops.wm.blenderplayer_start()
+  File "/home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py", line 189, in __call__
+    ret = op_call(self.idname_py(), None, kw)
+RuntimeError: Error: Traceback (most recent call last):
+  File "/home/shashank/blender-2.74/2.74/scripts/startup/bl_operators/wm.py", line 1446, in execute
+    os.remove(filepath)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/shashank/Desktop/compress.blend~'
+
+location: /home/shashank/blender-2.74/2.74/scripts/modules/bpy/ops.py:189
+
+

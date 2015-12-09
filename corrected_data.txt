@@ -1,0 +1,2571 @@
+
+Iteration Count 0
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+1.621246337890625e-05
+8.058547973632812e-05
+COM_after::{'x': 1.405074177900133, 'y': -11.874693276752058, 'z': 4.447651986345903}
+VOL_after::3714.7187342557395
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'l2': 37.65142059326172, 'b2': -11.399999618530273, 'l1': -22.0, 'h2': 11.010000228881836, 'h1': -0.5, 'b1': 11.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 1
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+4.2438507080078125e-05
+6.723403930664062e-05
+COM_after::{'z': 4.129848836564553, 'y': -11.057976764711798, 'x': 2.6737694951885516}
+VOL_after::3786.112119301528
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'b2': -11.399999618530273, 'h2': 11.010000228881836, 'l2': 37.65142059326172, 'h1': -0.5, 'l1': -22.0, 'b1': 11.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 2
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+2.1457672119140625e-05
+3.337860107421875e-06
+COM_after::{'y': -11.653757910623549, 'z': 4.703407938896227, 'x': 2.0696592286244733}
+VOL_after::3673.169664404427
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'b2': -11.399999618530273, 'h2': 11.010000228881836, 'b1': 11.0, 'l2': 37.65142059326172, 'h1': -0.5, 'l1': -22.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 3
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+7.62939453125e-05
+1.239776611328125e-05
+COM_after::{'z': 4.89154809158096, 'x': -0.07840488519772036, 'y': -11.648006988692183}
+VOL_after::4069.6909569490776
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'h1': -0.5, 'b2': -11.399999618530273, 'h2': 11.010000228881836, 'b1': 11.0, 'l2': 37.65142059326172, 'l1': -22.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 4
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+4.00543212890625e-05
+7.152557373046875e-06
+COM_after::{'y': -11.920657949301674, 'x': 0.664098133687263, 'z': 4.5349079808126405}
+VOL_after::3724.766994492563
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'b1': 11.0, 'b2': -11.399999618530273, 'l2': 37.65142059326172, 'h1': -0.5, 'h2': 11.010000228881836, 'l1': -22.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 5
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.6716461181640625e-05
+2.956390380859375e-05
+COM_after::{'x': 0.39881562742722076, 'y': -11.358691544428023, 'z': 4.180442751790001}
+VOL_after::3865.631965506386
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'h2': 11.010000228881836, 'l1': -22.0, 'h1': -0.5, 'b2': -11.399999618530273, 'l2': 37.65142059326172, 'b1': 11.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 6
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+7.915496826171875e-05
+1.1444091796875e-05
+COM_after::{'y': -11.806049635649767, 'z': 4.304866108863717, 'x': 1.6799091361701266}
+VOL_after::3708.4859188998066
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'l1': -22.0, 'h1': -0.5, 'b2': -11.399999618530273, 'b1': 11.0, 'l2': 37.65142059326172, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 7
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+2.193450927734375e-05
+8.678436279296875e-05
+COM_after::{'y': -11.571654843690798, 'z': 4.810279227990282, 'x': 0.9085327120761801}
+VOL_after::3618.1490682390104
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'h2': 11.010000228881836, 'b1': 11.0, 'h1': -0.5, 'l2': 37.65142059326172, 'l1': -22.0, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 8
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+2.47955322265625e-05
+8.153915405273438e-05
+COM_after::{'y': -11.988643317352482, 'z': 4.82551170786962, 'x': 0.9914940448935268}
+VOL_after::3894.2134403652244
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'b1': 11.0, 'h1': -0.5, 'l2': 37.65142059326172, 'h2': 11.010000228881836, 'l1': -22.0, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 9
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+1.9073486328125e-06
+2.1457672119140625e-05
+COM_after::{'x': 0.06506857879785825, 'z': 4.704954367669753, 'y': -11.219504550678616}
+VOL_after::4053.344231362237
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'b2': -11.399999618530273, 'h1': -0.5, 'l2': 37.65142059326172, 'h2': 11.010000228881836, 'l1': -22.0, 'b1': 11.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 10
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.3855438232421875e-05
+4.482269287109375e-05
+COM_after::{'x': -0.466795473900653, 'z': 4.491486579378937, 'y': -11.07063945413445}
+VOL_after::4117.887887811806
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'l1': -22.0, 'h1': -0.5, 'l2': 37.65142059326172, 'b2': -11.399999618530273, 'b1': 11.0, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 11
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+1.71661376953125e-05
+3.0517578125e-05
+COM_after::{'y': 7.092189746475139, 'x': -0.1862466824628507, 'z': 2.0010463818458746}
+VOL_after::12406.888965848759
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'h2': 11.010000228881836, 'l2': 37.65142059326172, 'h1': -0.5, 'l1': -22.0, 'b2': -11.399999618530273, 'b1': 11.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 12
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+4.76837158203125e-06
+7.390975952148438e-05
+COM_after::{'x': -0.8011448651553011, 'y': -12.176733834117742, 'z': 4.1404499168889215}
+VOL_after::3795.363727924748
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'b1': 11.0, 'l2': 37.65142059326172, 'l1': -22.0, 'b2': -11.399999618530273, 'h2': 11.010000228881836, 'h1': -0.5}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 13
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+5.2928924560546875e-05
+9.965896606445312e-05
+COM_after::{'z': 4.492671487245849, 'x': -0.11998086220391668, 'y': -11.736429757175815}
+VOL_after::3929.2753318685445
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'l2': 37.65142059326172, 'l1': -22.0, 'h1': -0.5, 'h2': 11.010000228881836, 'b1': 11.0, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 14
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+8.296966552734375e-05
+9.5367431640625e-06
+COM_after::{'x': 1.867119287953317, 'y': -11.27787825656085, 'z': 4.429699302341451}
+VOL_after::3706.408723581375
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'b1': 11.0, 'l1': -22.0, 'l2': 37.65142059326172, 'h2': 11.010000228881836, 'b2': -11.399999618530273, 'h1': -0.5}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 15
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+4.291534423828125e-05
+1.621246337890625e-05
+COM_after::{'y': -11.676122389291137, 'x': -1.8278435859903022, 'z': 4.718812868299042}
+VOL_after::3801.412624945195
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'h2': 11.010000228881836, 'l2': 37.65142059326172, 'h1': -0.5, 'l1': -22.0, 'b1': 11.0, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 16
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+6.771087646484375e-05
+1.239776611328125e-05
+COM_after::{'y': -11.936416490443962, 'x': 0.6557578520070473, 'z': 4.753494035421438}
+VOL_after::3761.0532460915424
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'b1': 11.0, 'h1': -0.5, 'h2': 11.010000228881836, 'l1': -22.0, 'l2': 37.65142059326172, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 17
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+4.38690185546875e-05
+2.8133392333984375e-05
+COM_after::{'y': -12.01205297557693, 'x': 0.9031341771711728, 'z': 4.560175647145126}
+VOL_after::3633.3905626520404
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'l1': -22.0, 'h2': 11.010000228881836, 'l2': 37.65142059326172, 'h1': -0.5, 'b2': -11.399999618530273, 'b1': 11.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 18
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+COM_after::{'y': -11.089064493911927, 'x': -0.37832338961245254, 'z': 4.5638420526394405}
+VOL_after::4199.560414534286
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'l1': -22.0, 'h1': -0.5, 'b2': -11.399999618530273, 'b1': 11.0, 'h2': 11.010000228881836, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 19
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+7.152557373046875e-06
+6.67572021484375e-05
+COM_after::{'z': 4.429190085366867, 'y': -11.434071354494575, 'x': -0.17124992468756567}
+VOL_after::4074.530615501716
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'b1': 11.0, 'h2': 11.010000228881836, 'l1': -22.0, 'b2': -11.399999618530273, 'l2': 37.65142059326172, 'h1': -0.5}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 20
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+9.179115295410156e-05
+9.107589721679688e-05
+COM_after::{'y': -8.517359331747745, 'x': -0.9724035845650967, 'z': 3.899242566504621}
+VOL_after::5022.264011182896
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'l1': -22.0, 'b2': -11.399999618530273, 'l2': 37.65142059326172, 'h1': -0.5, 'h2': 11.010000228881836, 'b1': 11.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 21
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+7.62939453125e-05
+5.9604644775390625e-05
+COM_after::{'y': -11.413667794733618, 'z': 4.684601929130878, 'x': 0.8709929063041267}
+VOL_after::3804.7752815710087
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'b1': 11.0, 'l1': -22.0, 'h2': 11.010000228881836, 'l2': 37.65142059326172, 'h1': -0.5, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 22
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+7.62939453125e-05
+6.914138793945312e-05
+COM_after::{'x': -1.4323561574898895, 'y': -11.727116646235869, 'z': 4.632546309509608}
+VOL_after::3863.1960310817053
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'b2': -11.399999618530273, 'b1': 11.0, 'l1': -22.0, 'h2': 11.010000228881836, 'h1': -0.5, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 23
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+9.918212890625e-05
+6.580352783203125e-05
+COM_after::{'x': -0.5011632023187472, 'z': 4.617730015201543, 'y': -10.856777854541004}
+VOL_after::4115.973711018009
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'h1': -0.5, 'b1': 11.0, 'b2': -11.399999618530273, 'l1': -22.0, 'l2': 37.65142059326172, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 24
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+5.7697296142578125e-05
+5.4836273193359375e-05
+COM_after::{'z': 4.2591596756481405, 'x': 0.08672065322938308, 'y': -11.370091740341808}
+VOL_after::4069.288697060234
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'l2': 37.65142059326172, 'b1': 11.0, 'h1': -0.5, 'h2': 11.010000228881836, 'l1': -22.0, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 25
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+7.82012939453125e-05
+8.106231689453125e-05
+COM_after::{'z': 4.588440424365107, 'y': -10.543214102736657, 'x': 0.26030039795218063}
+VOL_after::4032.733698481727
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'h1': -0.5, 'h2': 11.010000228881836, 'b1': 11.0, 'l1': -22.0, 'l2': 37.65142059326172, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 26
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+1.1444091796875e-05
+2.574920654296875e-05
+COM_after::{'y': -11.693028511162517, 'z': 4.628273648631878, 'x': 0.6270734905626446}
+VOL_after::3756.472868133517
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'l1': -22.0, 'h2': 11.010000228881836, 'b2': -11.399999618530273, 'b1': 11.0, 'h1': -0.5, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 27
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+8.344650268554688e-05
+5.1021575927734375e-05
+COM_after::{'x': -0.6145810825463826, 'z': 4.69427826774403, 'y': -11.549735563389877}
+VOL_after::3890.4811029674815
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'b2': -11.399999618530273, 'h2': 11.010000228881836, 'h1': -0.5, 'b1': 11.0, 'l2': 37.65142059326172, 'l1': -22.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 28
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+9.059906005859375e-06
+4.76837158203125e-06
+COM_after::{'z': 4.305722668796012, 'y': -11.57706717566454, 'x': -1.2920425103412778}
+VOL_after::3819.7979426704255
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'l2': 37.65142059326172, 'b1': 11.0, 'l1': -22.0, 'b2': -11.399999618530273, 'h1': -0.5, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 29
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.4332275390625e-05
+5.7220458984375e-06
+COM_after::{'y': -10.233605251367772, 'x': 0.2358931434536374, 'z': 4.098640859636043}
+VOL_after::4056.6119782587757
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'l1': -22.0, 'h1': -0.5, 'l2': 37.65142059326172, 'b2': -11.399999618530273, 'b1': 11.0, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 30
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+2.0503997802734375e-05
+7.104873657226562e-05
+COM_after::{'z': 4.610530560612794, 'x': 0.7957910337356333, 'y': -11.690712181355204}
+VOL_after::3790.434200185452
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'l2': 37.65142059326172, 'l1': -22.0, 'h2': 11.010000228881836, 'b1': 11.0, 'b2': -11.399999618530273, 'h1': -0.5}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 32
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+6.29425048828125e-05
+9.34600830078125e-05
+COM_after::{'z': 4.40312267751432, 'y': -11.892372490511027, 'x': -0.5087976640018053}
+VOL_after::3900.633370498303
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'h1': -0.5, 'b2': -11.399999618530273, 'h2': 11.010000228881836, 'l2': 37.65142059326172, 'l1': -22.0, 'b1': 11.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 33
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+5.91278076171875e-05
+4.38690185546875e-05
+COM_after::{'z': 4.555263122961597, 'x': 1.4515993081118836, 'y': -11.241988691175864}
+VOL_after::3734.334804959948
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'h1': -0.5, 'b2': -11.399999618530273, 'l2': 37.65142059326172, 'h2': 11.010000228881836, 'b1': 11.0, 'l1': -22.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 34
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+7.343292236328125e-05
+COM_after::{'z': 4.483107400771541, 'y': -11.649402902458826, 'x': 0.48504856447139905}
+VOL_after::3848.101695925077
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'h2': 11.010000228881836, 'b1': 11.0, 'l2': 37.65142059326172, 'l1': -22.0, 'b2': -11.399999618530273, 'h1': -0.5}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 35
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+6.151199340820312e-05
+2.86102294921875e-06
+COM_after::{'x': 1.3247729657510339, 'y': -11.130636418222865, 'z': 4.410964053059146}
+VOL_after::3611.532065183616
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'h1': -0.5, 'b1': 11.0, 'l2': 37.65142059326172, 'b2': -11.399999618530273, 'h2': 11.010000228881836, 'l1': -22.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 36
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+2.384185791015625e-05
+5.14984130859375e-05
+COM_after::{'y': -10.839969597310617, 'x': -0.5288431294988868, 'z': 4.394615842287068}
+VOL_after::4192.458904687346
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'l1': -22.0, 'b1': 11.0, 'l2': 37.65142059326172, 'h2': 11.010000228881836, 'b2': -11.399999618530273, 'h1': -0.5}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 37
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+4.4345855712890625e-05
+7.104873657226562e-05
+COM_after::{'y': -11.619712740365717, 'z': 4.208296007898452, 'x': 0.18404987132489303}
+VOL_after::4008.0140169078422
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'l2': 37.65142059326172, 'h1': -0.5, 'b2': -11.399999618530273, 'h2': 11.010000228881836, 'l1': -22.0, 'b1': 11.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 38
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+1.7642974853515625e-05
+1.71661376953125e-05
+COM_after::{'x': 0.18043528211813853, 'z': 4.445226144497775, 'y': -12.760040971784052}
+VOL_after::3640.3337256967698
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'b2': -11.399999618530273, 'h2': 11.010000228881836, 'l1': -22.0, 'h1': -0.5, 'b1': 11.0, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 39
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+5.6743621826171875e-05
+9.822845458984375e-05
+COM_after::{'y': -11.648325948532959, 'z': 4.6007918884698755, 'x': 0.08375498170319007}
+VOL_after::3906.4731464701795
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'h2': 11.010000228881836, 'l2': 37.65142059326172, 'l1': -22.0, 'b2': -11.399999618530273, 'b1': 11.0, 'h1': -0.5}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 40
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+6.628036499023438e-05
+4.863739013671875e-05
+COM_after::{'x': -0.4892719608210309, 'z': 4.712300309190367, 'y': -11.19064362201858}
+VOL_after::3995.84368822929
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'h1': -0.5, 'b1': 11.0, 'b2': -11.399999618530273, 'h2': 11.010000228881836, 'l2': 37.65142059326172, 'l1': -22.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 41
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+6.67572021484375e-06
+1.049041748046875e-05
+COM_after::{'z': 4.565794487155972, 'y': -11.610679181368894, 'x': 0.18153129317223438}
+VOL_after::3835.3639988519603
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'b2': -11.399999618530273, 'h1': -0.5, 'l2': 37.65142059326172, 'b1': 11.0, 'h2': 11.010000228881836, 'l1': -22.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 42
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+5.6743621826171875e-05
+7.581710815429688e-05
+COM_after::{'x': 1.2772450875961954, 'z': 4.366051631023482, 'y': -11.79078286953279}
+VOL_after::3631.7210365852616
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'l2': 37.65142059326172, 'l1': -22.0, 'h1': -0.5, 'b1': 11.0, 'b2': -11.399999618530273, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 43
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+2.4318695068359375e-05
+3.4332275390625e-05
+COM_after::{'x': 1.2935492100188852, 'y': -11.875749870011305, 'z': 4.604082424832986}
+VOL_after::3675.8652482439115
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'b1': 11.0, 'h2': 11.010000228881836, 'h1': -0.5, 'l1': -22.0, 'l2': 37.65142059326172, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 44
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+8.726119995117188e-05
+1.0013580322265625e-05
+COM_after::{'x': 0.9598467823438924, 'z': 4.526159841845555, 'y': -11.473448724834933}
+VOL_after::3887.0693932562012
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'b2': -11.399999618530273, 'l1': -22.0, 'l2': 37.65142059326172, 'h1': -0.5, 'b1': 11.0, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 45
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.814697265625e-06
+9.012222290039062e-05
+COM_after::{'x': -0.9687477806283098, 'y': -11.106396632437859, 'z': 4.469517478079492}
+VOL_after::4185.602414387616
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'h2': 11.010000228881836, 'h1': -0.5, 'l1': -22.0, 'b2': -11.399999618530273, 'l2': 37.65142059326172, 'b1': 11.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 46
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+5.626678466796875e-05
+3.147125244140625e-05
+COM_after::{'x': 0.4054115230898313, 'y': -11.889939328203692, 'z': 4.382827034651178}
+VOL_after::3801.8890176925274
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'l2': 37.65142059326172, 'l1': -22.0, 'h1': -0.5, 'b1': 11.0, 'h2': 11.010000228881836, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 47
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+6.604194641113281e-05
+1.430511474609375e-06
+COM_after::{'x': -0.1151871284976197, 'y': -11.451981736623889, 'z': 4.311072346722384}
+VOL_after::3981.45527491916
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'l2': 37.65142059326172, 'b1': 11.0, 'h2': 11.010000228881836, 'h1': -0.5, 'b2': -11.399999618530273, 'l1': -22.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 48
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+2.5272369384765625e-05
+2.384185791015625e-05
+COM_after::{'x': 0.2114413656417944, 'z': 4.282315209429552, 'y': -11.655891448253056}
+VOL_after::3941.8224718427286
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'h1': -0.5, 'b1': 11.0, 'h2': 11.010000228881836, 'l2': 37.65142059326172, 'l1': -22.0, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 49
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+5.3882598876953125e-05
+6.961822509765625e-05
+COM_after::{'y': -11.907010148398397, 'x': -0.8005746568426203, 'z': 4.488058767022727}
+VOL_after::3942.9178678114326
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'l2': 37.65142059326172, 'b2': -11.399999618530273, 'h1': -0.5, 'l1': -22.0, 'b1': 11.0, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 0
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.0517578125e-05
+4.9591064453125e-05
+COM_after::{'z': 2.114326968746493, 'y': 5.68058327689107, 'x': -0.553928491063635}
+VOL_after::10797.397974558395
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'l2': 37.65142059326172, 'h2': 11.010000228881836, 'b2': -11.399999618530273, 'h1': -0.5, 'l1': -22.0, 'b1': 11.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 1
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+5.817413330078125e-05
+5.1021575927734375e-05
+COM_after::{'x': 0.593810250831434, 'z': 4.609594921877016, 'y': -11.480882343077903}
+VOL_after::3860.4366413490943
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'h2': 11.010000228881836, 'l2': 37.65142059326172, 'l1': -22.0, 'b2': -11.399999618530273, 'h1': -0.5, 'b1': 11.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 2
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+1.71661376953125e-05
+3.910064697265625e-05
+COM_after::{'z': 4.638108676038234, 'y': -10.228163906591304, 'x': 1.982635081543611}
+VOL_after::3844.5280741497354
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'h1': -0.5, 'b2': -11.399999618530273, 'l1': -22.0, 'h2': 11.010000228881836, 'l2': 37.65142059326172, 'b1': 11.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 3
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+1.9550323486328125e-05
+9.870529174804688e-05
+COM_after::{'x': -1.6733715106809017, 'y': -11.408834477231327, 'z': 4.542960607699644}
+VOL_after::3971.4708205754628
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'b2': -11.399999618530273, 'l2': 37.65142059326172, 'h2': 11.010000228881836, 'l1': -22.0, 'h1': -0.5, 'b1': 11.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 4
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+6.127357482910156e-05
+7.724761962890625e-05
+COM_after::{'x': -0.04743913442983378, 'y': -11.197090596141885, 'z': 4.667845659702396}
+VOL_after::3934.7611633966612
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'b1': 11.0, 'b2': -11.399999618530273, 'l1': -22.0, 'h1': -0.5, 'l2': 37.65142059326172, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 5
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+6.4849853515625e-05
+2.288818359375e-05
+COM_after::{'z': 4.458073390727427, 'y': -11.676302299557333, 'x': 0.6142954125615294}
+VOL_after::3862.781600126543
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'b2': -11.399999618530273, 'l2': 37.65142059326172, 'h2': 11.010000228881836, 'b1': 11.0, 'l1': -22.0, 'h1': -0.5}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 6
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+2.3365020751953125e-05
+7.677078247070312e-05
+COM_after::{'y': -11.056432854072813, 'z': 4.972799808985957, 'x': -0.15181003498849824}
+VOL_after::4003.9885903979343
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'l2': 37.65142059326172, 'b1': 11.0, 'l1': -22.0, 'b2': -11.399999618530273, 'h1': -0.5, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 7
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.8623809814453125e-05
+6.4849853515625e-05
+COM_after::{'z': 4.2962116007922715, 'x': -1.5738964563546918, 'y': -11.695456025491334}
+VOL_after::3850.727080988116
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'b1': 11.0, 'l1': -22.0, 'h1': -0.5, 'b2': -11.399999618530273, 'l2': 37.65142059326172, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 8
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+7.772445678710938e-05
+4.57763671875e-05
+COM_after::{'y': -12.172040412548526, 'z': 4.762001023577352, 'x': 1.7322583145325403}
+VOL_after::3575.2470429852747
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'b1': 11.0, 'h2': 11.010000228881836, 'h1': -0.5, 'l1': -22.0, 'b2': -11.399999618530273, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 9
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+5.054473876953125e-05
+1.0967254638671875e-05
+COM_after::{'z': 4.331031293752303, 'x': -0.07626159930377045, 'y': -11.046912360765836}
+VOL_after::4089.3506713759452
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'h1': -0.5, 'l1': -22.0, 'h2': 11.010000228881836, 'b1': 11.0, 'l2': 37.65142059326172, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 10
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+7.677078247070312e-05
+4.1484832763671875e-05
+COM_after::{'z': 3.918458307942533, 'x': -0.5021813575413351, 'y': -10.943500851884076}
+VOL_after::4204.202016644098
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'h2': 11.010000228881836, 'l1': -22.0, 'h1': -0.5, 'b1': 11.0, 'b2': -11.399999618530273, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 11
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+6.961822509765625e-05
+1.9073486328125e-05
+COM_after::{'x': 0.46622812124010055, 'z': 4.171679989782973, 'y': -11.120472384221761}
+VOL_after::4080.1890548794468
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'b1': 11.0, 'h2': 11.010000228881836, 'b2': -11.399999618530273, 'h1': -0.5, 'l2': 37.65142059326172, 'l1': -22.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 12
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+7.772445678710938e-05
+3.147125244140625e-05
+COM_after::{'x': 0.06318601165475751, 'z': 4.687051960327924, 'y': -10.693599846060755}
+VOL_after::4117.461039910196
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'b1': 11.0, 'l2': 37.65142059326172, 'h2': 11.010000228881836, 'l1': -22.0, 'b2': -11.399999618530273, 'h1': -0.5}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 13
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+7.05718994140625e-05
+6.29425048828125e-05
+COM_after::{'z': 4.4173115786037975, 'x': 1.0504799606598318, 'y': -11.856025941618219}
+VOL_after::3754.978285777564
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'b2': -11.399999618530273, 'h2': 11.010000228881836, 'l1': -22.0, 'h1': -0.5, 'b1': 11.0, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 14
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+5.9604644775390625e-05
+8.344650268554688e-05
+COM_after::{'y': -10.78111137415788, 'x': 1.5474668209594076, 'z': 4.459438159849426}
+VOL_after::3705.29820598482
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'h2': 11.010000228881836, 'l1': -22.0, 'l2': 37.65142059326172, 'h1': -0.5, 'b1': 11.0, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 15
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+8.20159912109375e-05
+8.678436279296875e-05
+COM_after::{'y': -11.669576409877607, 'z': 4.812159942590177, 'x': 1.3594627735808087}
+VOL_after::3747.8578431607957
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'h1': -0.5, 'l2': 37.65142059326172, 'b2': -11.399999618530273, 'h2': 11.010000228881836, 'l1': -22.0, 'b1': 11.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 16
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+1.239776611328125e-05
+3.9577484130859375e-05
+COM_after::{'x': -0.431485975566764, 'z': 4.715271717608292, 'y': -10.865136503091088}
+VOL_after::4125.755437196454
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'b2': -11.399999618530273, 'h1': -0.5, 'h2': 11.010000228881836, 'l2': 37.65142059326172, 'b1': 11.0, 'l1': -22.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 17
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.337860107421875e-05
+3.8623809814453125e-05
+COM_after::{'y': -11.849036211730807, 'z': 4.6109413109764, 'x': -1.080963357895236}
+VOL_after::3945.8558894567855
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'l2': 37.65142059326172, 'h1': -0.5, 'l1': -22.0, 'b1': 11.0, 'b2': -11.399999618530273, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 18
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.0994415283203125e-05
+3.9577484130859375e-05
+COM_after::{'y': -11.516322332911018, 'z': 4.7608059885189125, 'x': 0.27003942668913444}
+VOL_after::3785.3920593476896
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'h1': -0.5, 'l1': -22.0, 'b1': 11.0, 'l2': 37.65142059326172, 'b2': -11.399999618530273, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 19
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.814697265625e-06
+4.0531158447265625e-05
+COM_after::{'z': 4.423312071203902, 'x': 0.3234150448238273, 'y': -11.523365678419669}
+VOL_after::3995.6736621210166
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'l2': 37.65142059326172, 'b1': 11.0, 'b2': -11.399999618530273, 'l1': -22.0, 'h2': 11.010000228881836, 'h1': -0.5}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 20
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+7.486343383789062e-05
+4.2438507080078125e-05
+COM_after::{'y': -11.458898159131223, 'x': -0.20818429300024677, 'z': 4.018513598284458}
+VOL_after::4012.675043547739
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'h1': -0.5, 'b1': 11.0, 'b2': -11.399999618530273, 'l1': -22.0, 'h2': 11.010000228881836, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 21
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+9.1552734375e-05
+3.4332275390625e-05
+COM_after::{'z': 2.004166297930939, 'y': 7.505968048064131, 'x': -0.06405875645359982}
+VOL_after::12413.30742070107
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'l2': 37.65142059326172, 'l1': -22.0, 'h2': 11.010000228881836, 'b2': -11.399999618530273, 'b1': 11.0, 'h1': -0.5}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 22
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+8.58306884765625e-06
+7.724761962890625e-05
+COM_after::{'z': 4.38545740725429, 'x': 1.7332019067032263, 'y': -11.028060791299769}
+VOL_after::3707.8134367506696
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'b2': -11.399999618530273, 'h1': -0.5, 'h2': 11.010000228881836, 'l2': 37.65142059326172, 'b1': 11.0, 'l1': -22.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 23
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+1.7642974853515625e-05
+4.9114227294921875e-05
+COM_after::{'z': 4.683992126050372, 'x': 1.3016479639123157, 'y': -11.350933843043846}
+VOL_after::3800.263135348407
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'l2': 37.65142059326172, 'l1': -22.0, 'h1': -0.5, 'b2': -11.399999618530273, 'b1': 11.0, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 24
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+8.153915405273438e-05
+2.6226043701171875e-05
+COM_after::{'z': 4.390428776410763, 'x': -0.06298321265772257, 'y': -11.166742838867517}
+VOL_after::4092.7125903613755
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'l1': -22.0, 'h1': -0.5, 'b1': 11.0, 'h2': 11.010000228881836, 'b2': -11.399999618530273, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 25
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+6.246566772460938e-05
+9.5367431640625e-06
+COM_after::{'z': 4.997158750333998, 'y': -11.789954934234263, 'x': 0.9555247761341237}
+VOL_after::3857.12598837028
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'b1': 11.0, 'b2': -11.399999618530273, 'h1': -0.5, 'h2': 11.010000228881836, 'l1': -22.0, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 26
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+2.0503997802734375e-05
+7.2479248046875e-05
+COM_after::{'y': -11.406756122624273, 'z': 4.628628449219543, 'x': 1.3799395102676242}
+VOL_after::3868.4908137506336
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'h1': -0.5, 'l1': -22.0, 'b2': -11.399999618530273, 'b1': 11.0, 'h2': 11.010000228881836, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 27
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+5.245208740234375e-06
+7.62939453125e-06
+COM_after::{'z': 4.4343314159987415, 'x': 0.9510179001606858, 'y': -10.51521541605499}
+VOL_after::3849.31941725729
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'b2': -11.399999618530273, 'h2': 11.010000228881836, 'l2': 37.65142059326172, 'l1': -22.0, 'h1': -0.5, 'b1': 11.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 28
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+4.76837158203125e-06
+8.916854858398438e-05
+COM_after::{'y': -11.367530049963362, 'z': 4.536000224805935, 'x': 0.4190982922683302}
+VOL_after::4020.2940081233287
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'l1': -22.0, 'b1': 11.0, 'h2': 11.010000228881836, 'l2': 37.65142059326172, 'b2': -11.399999618530273, 'h1': -0.5}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 29
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.0517578125e-05
+8.106231689453125e-06
+COM_after::{'x': -0.9761618837493421, 'z': 4.44758048543538, 'y': -12.425773524284052}
+VOL_after::3741.005532823235
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'b2': -11.399999618530273, 'b1': 11.0, 'h1': -0.5, 'l2': 37.65142059326172, 'l1': -22.0, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 30
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+1.33514404296875e-05
+5.7220458984375e-06
+COM_after::{'y': -11.512071279025756, 'z': 4.303612210937375, 'x': 0.009077802830124273}
+VOL_after::3994.7849283996065
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'y': 12.25, 'x': -0.09999990463256836}
+{'h1': -0.5, 'b1': 11.0, 'b2': -11.399999618530273, 'l2': 37.65142059326172, 'l1': -22.0, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 31
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+4.76837158203125e-07
+9.393692016601562e-05
+COM_after::{'x': 2.047791482685292, 'y': -11.036247083601262, 'z': 4.152721844500773}
+VOL_after::3673.8848067557124
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'h2': 11.010000228881836, 'b2': -11.399999618530273, 'l2': 37.65142059326172, 'h1': -0.5, 'l1': -22.0, 'b1': 11.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 32
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+8.487701416015625e-05
+7.82012939453125e-05
+COM_after::{'z': 4.66757952187238, 'x': -0.7462635898213963, 'y': -10.45911603652412}
+VOL_after::4352.834463830614
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'b1': 11.0, 'h1': -0.5, 'b2': -11.399999618530273, 'l2': 37.65142059326172, 'h2': 11.010000228881836, 'l1': -22.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 33
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+6.437301635742188e-05
+4.100799560546875e-05
+COM_after::{'y': -10.884730935620233, 'z': 4.429298856807701, 'x': -0.42322170222560623}
+VOL_after::4175.066573857652
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'h2': 11.010000228881836, 'l2': 37.65142059326172, 'b1': 11.0, 'b2': -11.399999618530273, 'l1': -22.0, 'h1': -0.5}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 34
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+6.008148193359375e-05
+9.72747802734375e-05
+COM_after::{'z': 4.625365083194293, 'y': -11.663043559303508, 'x': 0.4698766543167585}
+VOL_after::3780.9642500088735
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'l1': -22.0, 'h2': 11.010000228881836, 'b2': -11.399999618530273, 'h1': -0.5, 'l2': 37.65142059326172, 'b1': 11.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 35
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+8.106231689453125e-06
+3.2901763916015625e-05
+COM_after::{'x': 1.3096105589721765, 'y': -11.44810607942818, 'z': 4.531121520114627}
+VOL_after::3985.3260428287726
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'l1': -22.0, 'b1': 11.0, 'h2': 11.010000228881836, 'b2': -11.399999618530273, 'h1': -0.5, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 36
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+7.43865966796875e-05
+5.8650970458984375e-05
+COM_after::{'y': -10.794343401565374, 'z': 4.370444995838185, 'x': -0.15853472353436318}
+VOL_after::4223.0966750537655
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'h2': 11.010000228881836, 'b1': 11.0, 'l1': -22.0, 'b2': -11.399999618530273, 'l2': 37.65142059326172, 'h1': -0.5}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 37
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+2.288818359375e-05
+7.05718994140625e-05
+COM_after::{'y': -10.865788763317441, 'z': 4.51109105316799, 'x': 1.7049658045502625}
+VOL_after::3755.209290157496
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'b2': -11.399999618530273, 'b1': 11.0, 'l1': -22.0, 'l2': 37.65142059326172, 'h1': -0.5, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 38
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+7.867813110351562e-05
+2.1457672119140625e-05
+COM_after::{'z': 4.622081287103798, 'y': -11.199539866608744, 'x': 0.37582212168211}
+VOL_after::4059.0867617436256
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'h1': -0.5, 'b1': 11.0, 'l2': 37.65142059326172, 'l1': -22.0, 'h2': 11.010000228881836, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 39
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.838539123535156e-05
+3.4332275390625e-05
+COM_after::{'x': -0.10582601529958574, 'y': -10.854687965400611, 'z': 3.91785016950532}
+VOL_after::4178.850914902394
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'l1': -22.0, 'l2': 37.65142059326172, 'h2': 11.010000228881836, 'b1': 11.0, 'h1': -0.5, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 40
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+5.14984130859375e-05
+1.3828277587890625e-05
+COM_after::{'z': 4.193524413449756, 'x': -0.6391598732539723, 'y': -11.177342310521192}
+VOL_after::4127.190024801259
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'z': 5.127500057220459, 'x': -0.09999990463256836}
+{'l1': -22.0, 'l2': 37.65142059326172, 'h2': 11.010000228881836, 'b2': -11.399999618530273, 'h1': -0.5, 'b1': 11.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 41
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.814697265625e-06
+2.09808349609375e-05
+COM_after::{'y': 3.858497173561132, 'z': 2.3173958009193902, 'x': -0.9390441963952536}
+VOL_after::9984.16322162579
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'b1': 11.0, 'h2': 11.010000228881836, 'b2': -11.399999618530273, 'l1': -22.0, 'h1': -0.5, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 42
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+6.198883056640625e-05
+2.765655517578125e-05
+COM_after::{'x': 0.41594236164506815, 'y': -11.332828630383005, 'z': 4.38343386536791}
+VOL_after::3948.6728151392676
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'b2': -11.399999618530273, 'b1': 11.0, 'h2': 11.010000228881836, 'l1': -22.0, 'h1': -0.5, 'l2': 37.65142059326172}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 43
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.147125244140625e-05
+9.107589721679688e-05
+COM_after::{'y': -11.011671867774364, 'x': -0.5848345891604099, 'z': 4.222530148649363}
+VOL_after::4153.553537968583
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'l1': -22.0, 'b1': 11.0, 'h1': -0.5, 'l2': 37.65142059326172, 'b2': -11.399999618530273, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 44
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+8.7738037109375e-05
+2.765655517578125e-05
+COM_after::{'y': -11.205125124350175, 'x': -0.03212904911716829, 'z': 4.15093768064286}
+VOL_after::4161.202622859811
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'b2': -11.399999618530273, 'b1': 11.0, 'l2': 37.65142059326172, 'h1': -0.5, 'h2': 11.010000228881836, 'l1': -22.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 45
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+6.961822509765625e-05
+6.008148193359375e-05
+COM_after::{'y': -10.321500967205784, 'x': 0.879673707624814, 'z': 4.110653493818355}
+VOL_after::3736.3917151678484
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'b1': 11.0, 'b2': -11.399999618530273, 'h1': -0.5, 'h2': 11.010000228881836, 'l2': 37.65142059326172, 'l1': -22.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 46
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+5.1975250244140625e-05
+1.621246337890625e-05
+COM_after::{'x': 2.160280911035923, 'z': 4.78990687824453, 'y': -11.658053922447413}
+VOL_after::3608.7924688012813
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'z': 5.127500057220459, 'y': 12.25}
+{'l1': -22.0, 'b1': 11.0, 'l2': 37.65142059326172, 'h1': -0.5, 'h2': 11.010000228881836, 'b2': -11.399999618530273}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 47
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+3.24249267578125e-05
+7.772445678710938e-05
+COM_after::{'y': -11.735821223848703, 'z': 4.489609193679489, 'x': -0.2168818543346698}
+VOL_after::4073.9001788544083
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'y': 12.25, 'x': -0.09999990463256836, 'z': 5.127500057220459}
+{'h2': 11.010000228881836, 'h1': -0.5, 'b1': 11.0, 'b2': -11.399999618530273, 'l2': 37.65142059326172, 'l1': -22.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 48
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+4.9591064453125e-05
+9.965896606445312e-05
+COM_after::{'x': 0.5664521302195343, 'y': -10.637605000473737, 'z': 4.382648625937401}
+VOL_after::4287.263274327574
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'z': 5.127500057220459, 'x': -0.09999990463256836, 'y': 12.25}
+{'h2': 11.010000228881836, 'l2': 37.65142059326172, 'l1': -22.0, 'h1': -0.5, 'b2': -11.399999618530273, 'b1': 11.0}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit
+
+Iteration Count 49
+Detected GL_ARB_texture_env_combine
+Detected GL_ARB_texture_cube_map
+Detected GL_ARB_multitexture
+Detected GL_ARB_shader_objects
+Detected GL_ARB_vertex_shader
+Detected GL_ARB_fragment_shader
+Detected GL_ARB_vertex_program
+Detected GL_ARB_depth_texture
+Detected GL_EXT_separate_specular_color
+8.440017700195312e-05
+1.0013580322265625e-05
+COM_after::{'x': -0.3159940259902266, 'y': -12.50720012520161, 'z': 4.280617144751897}
+VOL_after::3819.8465039956372
+found bundled python: /home/shashank/blender-2.74/2.74/python
+COM_before::{'x': -0.09999990463256836, 'y': 12.25, 'z': 5.127500057220459}
+{'b1': 11.0, 'l1': -22.0, 'h1': -0.5, 'b2': -11.399999618530273, 'l2': 37.65142059326172, 'h2': 11.010000228881836}
+VOL_before 15379.567906954662
+found bundled python: /home/shashank/blender-2.74/2.74/python
+read blend: /home/shashank/Desktop/compress.blend
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+convertViewVec: called in an invalid context
+
+Blender quit

@@ -1,0 +1,27 @@
+
+
+
+
+
+d
+c
+d
+a
+a
+b
+s->c;a->b
+d
+b
+b
+c/a - a-string, c-char What is literal?
+b
+c,d
+b
+b,c
+c
+d
+c
+c
+a
+d
+c
